@@ -23,8 +23,13 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.02*: &nbspiu;🎉 Three papers ([Thinking-While-Generating](https://arxiv.org/pdf/2511.16671), [OneThinker](https://arxiv.org/pdf/2512.03043), etc.) are accepted by CVPR 2026.
+- *2026.01*:  &nbsp;🎉 One paper is accepted by AAAI 2026.
+- *2025.09*:  &nbsp;🎉 One paper ([Temporal-R1](https://arxiv.org/pdf/2506.01908?)) is accepted by NeurIPS 2025 Workshop as Oral Presentation.
+- *2025.02*: &nbsp;🎉 Two papers ([LLaVA-ST](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_LLaVA-ST_A_Multimodal_Large_Language_Model_for_Fine-Grained_Spatial-Temporal_Understanding_CVPR_2025_paper.pdf), etc.) are accepted by CVPR 2025.
+- *2025.01*: &nbsp;🎉 One papers is accepted by AAAI 2025.
+- *2024.07*: &nbsp;🎉 One papers are accepted by ACMMM 2024.
+
 
 # 📝 Publications 
 

@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hongyu Li"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : 
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Hongyu Li"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/citations.jpeg"
   bio              : "Beihang University"
   location         : "Beijing, China"
   employer         :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "appletea233"
+  github           : "appletea233"
   google_plus      :
   keybase          :
   instagram        :
@@ -56,7 +56,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  wikipedia        : 
 
 
 # Reading Files

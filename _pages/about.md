@@ -17,8 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-{:#about-me}
-
 I am a second-year Master student at Beihang University supervised by [Prof. Si Liu](https://colalab.net/). Before that, I received my bachelor’s degree in Software Engineering from Beihang University.
 
 My research interests mainly include Multi-modal Learning, Large Language/Vision Models, and Emobodied AI.

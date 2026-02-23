@@ -38,7 +38,7 @@ My research interests mainly include Multi-modal Learning, Large Language/Vision
 
 [LLaVA-ST: A Multimodal Large Language Model for Fine-Grained Spatial-Temporal Understanding](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_LLaVA-ST_A_Multimodal_Large_Language_Model_for_Fine-Grained_Spatial-Temporal_Understanding_CVPR_2025_paper.pdf)
 
-**Hongyu Li***, Jinyu Chen*, Ziyu Wei*, Shaofei Huang, Tianrui Hui, Jialin Gao#, Xiaoming Wei, Si Liu#
+**Hongyu Li**\*, Jinyu Chen\*, Ziyu Wei\*, Shaofei Huang, Tianrui Hui, Jialin Gao#, Xiaoming Wei, Si Liu#
 
 - First MLLM with Spatial-Temporal Fine-Grained Understanding Capacity
 

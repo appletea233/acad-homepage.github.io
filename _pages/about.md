@@ -53,7 +53,7 @@ Ziyu Guo\*, Renrui Zhang\*†, **Hongyu Li**\*, Manyuan Zhang†, Xinyan Chen, S
 
 [EditThinker: Unlocking Iterative Reasoning for Any Image Editor](https://arxiv.org/pdf/2512.05965)
 
-Hongyu Li, Manyuan Zhang, Dian Zheng, Ziyu Guo, Yimeng Jia, Kaituo Feng, Hao Yu, Yexin Liu, Yan Feng, Peng Pei, Xunliang Cai, Linjiang Huang, Hongsheng Li, Si Liu#
+**Hongyu Li**, Manyuan Zhang, Dian Zheng, Ziyu Guo, Yimeng Jia, Kaituo Feng, Hao Yu, Yexin Liu, Yan Feng, Peng Pei, Xunliang Cai, Linjiang Huang, Hongsheng Li, Si Liu#
 
 </div>
 </div>

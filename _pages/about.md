@@ -95,8 +95,8 @@ Shaofei Huang\*, Rui Ling\*, **Hongyu Li**\*, Tianrui Hui#, Zongheng Tang, Xiaom
 </div>
 
 # 📖 Educations <span id="educations"></span> 
-- *2024.09 - Now *, Master Sutdent, School of Artificial Intelligence, Beihang University.
-- *2019.09 - 2024.07 *, Bachelor of Software Engineering, Beihang University.
+- *Sep 2024* - *Now*, Master Sutdent, School of Artificial Intelligence, Beihang University.
+- *Sep 2019* - *Jul 2024*, Bachelor of Software Engineering, Beihang University.
 
 # 📄 Academic Service <span id="academic-service"></span>
 ## Conference Reviewers

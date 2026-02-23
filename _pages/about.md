@@ -24,7 +24,7 @@ My research interests mainly include Multi-modal Learning, Large Language/Vision
 # 🔥 News <span id="news"></span> 
 - *2026.02*: &nbsp;🎉 Three papers ([Thinking-While-Generating](https://arxiv.org/pdf/2511.16671), [OneThinker](https://arxiv.org/pdf/2512.03043), etc.) are accepted by CVPR 2026.
 - *2026.01*:  &nbsp;🎉 One paper is accepted by AAAI 2026.
-- *2025.12*:  &nbsp;🔥 Released [EditThinker](https://arxiv.org/pdf/2512.05965), unlocking iterative reasoning for any image editor!
+- *2025.12*:  &nbsp;🔥 Released [EditThinker](https://arxiv.org/pdf/2512.05965), unlocking iterative reasoning for any image editor!   <span class="hf-badge">🤗 HF Daily #2</span>
 - *2025.09*:  &nbsp;🎉 One paper ([Temporal-R1](https://arxiv.org/pdf/2506.01908?)) is accepted by NeurIPS 2025 Workshop as Oral Presentation.
 - *2025.02*: &nbsp;🎉 Two papers ([LLaVA-ST](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_LLaVA-ST_A_Multimodal_Large_Language_Model_for_Fine-Grained_Spatial-Temporal_Understanding_CVPR_2025_paper.pdf), etc.) are accepted by CVPR 2025.
 - *2025.01*: &nbsp;🎉 One papers is accepted by ICLR 2025.
@@ -145,4 +145,17 @@ AAAI 2026, CVPR 2026, ICLR 2026, ICML 2026
 
 /* 防止右侧文本溢出（可选） */
 .paper-box-text{ min-width: 0; }
+
+.hf-badge{
+  display:inline-block;
+  margin-left:8px;
+  padding:4px 12px;
+  font-size:0.85rem;
+  font-weight:700;
+  border-radius:14px;
+  background: linear-gradient(90deg,#ff9a00,#ff2d00,#ff0077);
+  color:#fff;
+  box-shadow:0 6px 18px rgba(255,60,0,.45);
+  vertical-align:middle;
+}
 </style>

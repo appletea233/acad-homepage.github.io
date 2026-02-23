@@ -32,7 +32,7 @@ My research interests mainly include Multi-modal Learning, Large Language/Vision
 - *2024.07*: &nbsp;🎉 One papers is accepted by ACMMM 2024.
 
 
-# 📝 Publications <span id="publications"></span>
+# 📝 Selected Publications <span id="publications"></span>
 
 
 
@@ -42,6 +42,16 @@ My research interests mainly include Multi-modal Learning, Large Language/Vision
 [Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation](https://arxiv.org/pdf/2511.16671)
 
 Ziyu Guo\*, Renrui Zhang\*†, **Hongyu Li**\*, Manyuan Zhang†, Xinyan Chen, Sifan Wang, Yan Feng, Peng Pei, Pheng-Ann Heng
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img class="paper-thumb" src='images/onethinker.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Onethinker: All-in-one reasoning model for image and video](https://arxiv.org/pdf/2512.03043)
+
+Kaituo Feng, Manyuan Zhang, **Hongyu Li**, Kaixuan Fan, Shuang Chen, Yilei Jiang, Dian Zheng, Peiwen Sun, Yiyuan Zhang, Haoze Sun, Yan Feng, Peng Pei, Xunliang Cai, Xiangyu Yue
 
 </div>
 </div>

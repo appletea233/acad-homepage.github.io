@@ -17,11 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+{:#about-me}
+
 I am a second-year Master student at Beihang University supervised by [Prof. Si Liu](https://colalab.net/). Before that, I received my bachelor’s degree in Software Engineering from Beihang University.
 
 My research interests mainly include Multi-modal Learning, Large Language/Vision Models, and Emobodied AI.
 
-# 🔥 News
+# 🔥 News {:#news}
 - *2026.02*: &nbsp;🎉 Three papers ([Thinking-While-Generating](https://arxiv.org/pdf/2511.16671), [OneThinker](https://arxiv.org/pdf/2512.03043), etc.) are accepted by CVPR 2026.
 - *2026.01*:  &nbsp;🎉 One paper is accepted by AAAI 2026.
 - *2025.12*:  &nbsp;🔥 Released [EditThinker](https://arxiv.org/pdf/2512.05965), unlocking iterative reasoning for any image editor!
@@ -31,7 +33,7 @@ My research interests mainly include Multi-modal Learning, Large Language/Vision
 - *2024.07*: &nbsp;🎉 One papers are accepted by ACMMM 2024.
 
 
-# 📝 Publications 
+# 📝 Publications {:#publications}
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/llava-st.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -46,10 +48,10 @@ My research interests mainly include Multi-modal Learning, Large Language/Vision
 </div>
 
 
-# 📖 Educations
+# 📖 Educations {:#educations}
 - *2024.09 - Now *, Master Sutdent, School of Artificial Intelligence, Beihang University.
 - *2019.09 - 2024.07 *, Bachelor of Software Engineering, Beihang University.
 
-# 📄 Academic Service
+# 📄 Academic Service {:#academic-service}
 ## Conference Reviewers
 AAAI 2026, CVPR 2026, ICLR 2026, ICML 2026

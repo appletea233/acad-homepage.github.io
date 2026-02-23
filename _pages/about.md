@@ -100,32 +100,39 @@ Shaofei Huang\*, Rui Ling\*, **Hongyu Li**\*, Tianrui Hui#, Zongheng Tang, Xiaom
 AAAI 2026, CVPR 2026, ICLR 2026, ICML 2026
 
 <style>
-
-  /* 保持 paper-box-image 原布局，不改 display */
+/* 左列宽度（控制左侧整体占位） */
 .paper-box-image{
   width: 320px;
 }
 
-/* 只让图片那块内部居中 */
+/* 让左列内部（badge+img）水平居中 */
 .paper-box-image > div > div{
-  margin: 0 auto;
   width: 100%;
   max-width: 320px;
-  text-align: center;   /* 让 badge 也居中 */
-}
-.paper-box-image .badge{
-  display: inline-block;
+  margin: 0 auto;
+  text-align: center;          /* badge 居中 */
 }
 
-/* 限制图片尺寸（你原来的 thumb 规则） */
+/* 关键：badge 不要占满一整行（蓝条变短） */
+.paper-box-image .badge{
+  display: inline-block;       /* 不再撑满整行 */
+  width: auto;
+  padding: 2px 10px;           /* 可调 */
+  border-radius: 10px;         /* 可调 */
+  margin: 0 auto 8px;          /* 下方留一点空隙 */
+}
+
+/* 缩略图：固定高度+裁切+居中 */
 .paper-box-image img{
   width: 100%;
-  height: 180px;
-  object-fit: cover;
+  height: 180px;               /* 你要的缩小高度 */
+  object-fit: cover;           /* 裁切，不拉伸 */
   border-radius: 10px;
   box-shadow: 0 6px 18px rgba(0,0,0,.10);
   display: block;
   margin: 0 auto;
 }
-  
+
+/* 防止右侧文本溢出（可选） */
+.paper-box-text{ min-width: 0; }
 </style>

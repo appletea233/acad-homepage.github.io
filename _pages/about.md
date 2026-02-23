@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
+{% if site.google_scholar_stats_use_cdn %}  
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
@@ -23,7 +23,7 @@ I am a second-year Master student at Beihang University supervised by [Prof. Si 
 
 My research interests mainly include Multi-modal Learning, Large Language/Vision Models, and Emobodied AI.
 
-# 🔥 News {:#news}
+# 🔥 News <span id="news"></span> 
 - *2026.02*: &nbsp;🎉 Three papers ([Thinking-While-Generating](https://arxiv.org/pdf/2511.16671), [OneThinker](https://arxiv.org/pdf/2512.03043), etc.) are accepted by CVPR 2026.
 - *2026.01*:  &nbsp;🎉 One paper is accepted by AAAI 2026.
 - *2025.12*:  &nbsp;🔥 Released [EditThinker](https://arxiv.org/pdf/2512.05965), unlocking iterative reasoning for any image editor!
@@ -33,7 +33,7 @@ My research interests mainly include Multi-modal Learning, Large Language/Vision
 - *2024.07*: &nbsp;🎉 One papers are accepted by ACMMM 2024.
 
 
-# 📝 Publications {:#publications}
+# 📝 Publications <span id="publications"></span>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/llava-st.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -48,10 +48,10 @@ My research interests mainly include Multi-modal Learning, Large Language/Vision
 </div>
 
 
-# 📖 Educations {:#educations}
+# 📖 Educations <span id="educations"></span> 
 - *2024.09 - Now *, Master Sutdent, School of Artificial Intelligence, Beihang University.
 - *2019.09 - 2024.07 *, Bachelor of Software Engineering, Beihang University.
 
-# 📄 Academic Service {:#academic-service}
+# 📄 Academic Service <span id="academic-service"></span>
 ## Conference Reviewers
 AAAI 2026, CVPR 2026, ICLR 2026, ICML 2026

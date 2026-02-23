@@ -36,6 +36,28 @@ My research interests mainly include Multi-modal Learning, Large Language/Vision
 
 # 📝 Publications <span id="publications"></span>
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/t-w-g.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation](https://arxiv.org/pdf/2511.16671)
+
+Ziyu Guo\*, Renrui Zhang\*†, **Hongyu Li**\*, Manyuan Zhang†, Xinyan Chen, Sifan Wang, Yan Feng, Peng Pei, Pheng-Ann Heng
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/edit-thinker.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EditThinker: Unlocking Iterative Reasoning for Any Image Editor](https://arxiv.org/pdf/2512.05965)
+
+Hongyu Li, Manyuan Zhang, Dian Zheng, Ziyu Guo, Yimeng Jia, Kaituo Feng, Hao Yu, Yexin Liu, Yan Feng, Peng Pei, Xunliang Cai, Linjiang Huang, Hongsheng Li, Si Liu#
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/llava-st.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -60,7 +82,7 @@ Shaofei Huang\*, Rui Ling\*, **Hongyu Li**\*, Tianrui Hui#, Zongheng Tang, Xiaom
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2026</div><img src='images/dynamic_prompt' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/dynamic_prompt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dynamic Prompting of Frozen Text-to-Image Diffusion Models for Panoptic Narrative Grounding](https://arxiv.org/pdf/2409.08251)

@@ -101,45 +101,32 @@ Shaofei Huang\*, Rui Ling\*, **Hongyu Li**\*, Tianrui Hui#, Zongheng Tang, Xiaom
 AAAI 2026, CVPR 2026, ICLR 2026, ICML 2026
 
 <style>
-/* 让 paper-box 左图不要撑爆高度 */
+
+  /* 保持 paper-box-image 原布局，不改 display */
 .paper-box-image{
-  width: 320px;           /* 左侧列宽（你可以改 260/300/360） */
+  width: 320px;
 }
 
-/* 固定缩略图高度，超出裁切 */
-.paper-box-image .paper-thumb{
+/* 只让图片那块内部居中 */
+.paper-box-image > div > div{
+  margin: 0 auto;
   width: 100%;
-  height: 180px;          /* 固定高度（你可以改 160/200/220） */
-  object-fit: cover;      /* 裁切，不拉伸 */
+  max-width: 320px;
+  text-align: center;   /* 让 badge 也居中 */
+}
+.paper-box-image .badge{
+  display: inline-block;
+}
+
+/* 限制图片尺寸（你原来的 thumb 规则） */
+.paper-box-image img{
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
   border-radius: 10px;
   box-shadow: 0 6px 18px rgba(0,0,0,.10);
   display: block;
-}
-
-/* 防止右侧文本被挤得太窄（可选） */
-.paper-box-text{
-  min-width: 0;
-}
-
-/* 左列用 flex，让里面内容居中 */
-.paper-box-image{
-  width: 320px;              /* 你之前的宽 */
-  display: flex;
-  justify-content: center;   /* 水平居中 */
-}
-
-/* 如果中间还有一层 div，也一起居中 */
-.paper-box-image > div{
-  width: 100%;
-  display: flex;
-  justify-content: center;
-}
-.paper-box-image > div > div{
-  width: 100%;
-}
-
-/* 图片本身居中显示（保险） */
-.paper-box-image img{
   margin: 0 auto;
 }
+  
 </style>

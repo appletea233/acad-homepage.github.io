@@ -36,7 +36,7 @@ My research interests mainly include Multi-modal Learning, Large Language/Vision
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/t-w-g.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img class="paper-thumb" src="images/t-w-g.png" alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation](https://arxiv.org/pdf/2511.16671)
@@ -99,3 +99,25 @@ Shaofei Huang\*, Rui Ling\*, **Hongyu Li**\*, Tianrui Hui#, Zongheng Tang, Xiaom
 # 📄 Academic Service <span id="academic-service"></span>
 ## Conference Reviewers
 AAAI 2026, CVPR 2026, ICLR 2026, ICML 2026
+
+<style>
+/* 让 paper-box 左图不要撑爆高度 */
+.paper-box-image{
+  width: 320px;           /* 左侧列宽（你可以改 260/300/360） */
+}
+
+/* 固定缩略图高度，超出裁切 */
+.paper-box-image .paper-thumb{
+  width: 100%;
+  height: 180px;          /* 固定高度（你可以改 160/200/220） */
+  object-fit: cover;      /* 裁切，不拉伸 */
+  border-radius: 10px;
+  box-shadow: 0 6px 18px rgba(0,0,0,.10);
+  display: block;
+}
+
+/* 防止右侧文本被挤得太窄（可选） */
+.paper-box-text{
+  min-width: 0;
+}
+</style>

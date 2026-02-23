@@ -56,7 +56,7 @@ Kaituo Feng, Manyuan Zhang, **Hongyu Li**, Kaixuan Fan, Shuang Chen, Yilei Jiang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img class="paper-thumb" src='images/edit-thinker.png' alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025.12</div><img class="paper-thumb" src='images/edit-thinker.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EditThinker: Unlocking Iterative Reasoning for Any Image Editor](https://arxiv.org/pdf/2512.05965)

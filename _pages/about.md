@@ -29,8 +29,9 @@ My research interests mainly include Multi-modal Learning, Large Language/Vision
 - *2025.12*:  &nbsp;🔥 Released [EditThinker](https://arxiv.org/pdf/2512.05965), unlocking iterative reasoning for any image editor!
 - *2025.09*:  &nbsp;🎉 One paper ([Temporal-R1](https://arxiv.org/pdf/2506.01908?)) is accepted by NeurIPS 2025 Workshop as Oral Presentation.
 - *2025.02*: &nbsp;🎉 Two papers ([LLaVA-ST](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_LLaVA-ST_A_Multimodal_Large_Language_Model_for_Fine-Grained_Spatial-Temporal_Understanding_CVPR_2025_paper.pdf), etc.) are accepted by CVPR 2025.
+- *2025.01*: &nbsp;🎉 One papers is accepted by ICLR 2025.
 - *2025.01*: &nbsp;🎉 One papers is accepted by AAAI 2025.
-- *2024.07*: &nbsp;🎉 One papers are accepted by ACMMM 2024.
+- *2024.07*: &nbsp;🎉 One papers is accepted by ACMMM 2024.
 
 
 # 📝 Publications <span id="publications"></span>
@@ -47,6 +48,29 @@ My research interests mainly include Multi-modal Learning, Large Language/Vision
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/al_ref_sam2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AL-Ref-SAM2: Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation](https://arxiv.org/pdf/2408.15876)
+
+Shaofei Huang\*, Rui Ling\*, **Hongyu Li**\*, Tianrui Hui#, Zongheng Tang, Xiaoming Wei, Jizhong Han, Si Liu#
+
+- An Agentic Pipeline for Finegrained Lauguage and Audio Referenced Video Segmentation
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2026</div><img src='images/dynamic_prompt' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dynamic Prompting of Frozen Text-to-Image Diffusion Models for Panoptic Narrative Grounding](https://arxiv.org/pdf/2409.08251)
+
+**Hongyu Li**\*, Tianrui Hui*, Zihan Ding, Jing Zhang, Bin Ma, Xiaoming Wei, Jizhong Han, Si Liu#
+
+- Adapt T2I Diffusion Model for Text Referenced Dense Image Gounding
+
+</div>
+</div>
 
 # 📖 Educations <span id="educations"></span> 
 - *2024.09 - Now *, Master Sutdent, School of Artificial Intelligence, Beihang University.

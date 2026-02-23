@@ -97,7 +97,6 @@ Shaofei Huang\*, Rui Ling\*, **Hongyu Li**\*, Tianrui Hui#, Zongheng Tang, Xiaom
 - *Sep 2019* - *Jul 2024*, Bachelor of Software Engineering, Beihang University.
 
 # 📄 Academic Service <span id="academic-service"></span>
-## Conference Reviewers
 AAAI 2026, CVPR 2026, ICLR 2026, ICML 2026
 
 <style>

@@ -46,7 +46,7 @@ Ziyu Guo\*, Renrui Zhang\*†, **Hongyu Li**\*, Manyuan Zhang†, Xinyan Chen, S
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/edit-thinker.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img class="paper-thumb" src='images/edit-thinker.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EditThinker: Unlocking Iterative Reasoning for Any Image Editor](https://arxiv.org/pdf/2512.05965)
@@ -119,5 +119,27 @@ AAAI 2026, CVPR 2026, ICLR 2026, ICML 2026
 /* 防止右侧文本被挤得太窄（可选） */
 .paper-box-text{
   min-width: 0;
+}
+
+/* 左列用 flex，让里面内容居中 */
+.paper-box-image{
+  width: 320px;              /* 你之前的宽 */
+  display: flex;
+  justify-content: center;   /* 水平居中 */
+}
+
+/* 如果中间还有一层 div，也一起居中 */
+.paper-box-image > div{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.paper-box-image > div > div{
+  width: 100%;
+}
+
+/* 图片本身居中显示（保险） */
+.paper-box-image img{
+  margin: 0 auto;
 }
 </style>

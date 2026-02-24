@@ -17,9 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Master student at Beihang University supervised by [Prof. Si Liu](https://colalab.net/). Before that, I received my bachelor’s degree in Software Engineering from Beihang University.
+I am a second-year Master student at Beihang University supervised by [Prof. Si Liu](https://colalab.net/). Before that, I received my bachelor’s degree in Software Engineering from Beihang University. 
 
 My research interests mainly include Multi-modal Learning, Large Language/Vision Models, and Emobodied AI.
+
+<span style="color: #ff6a00;">I'm always open to collaboration and interesting discussions! I’m actively seeking potential collaborations on exciting projects.</span>
+
 
 # 🔥 News <span id="news"></span> 
 - *2026.02*: &nbsp;🎉 Three papers ([Thinking-While-Generating](https://arxiv.org/pdf/2511.16671), [OneThinker](https://arxiv.org/pdf/2512.03043), etc.) are accepted by CVPR 2026.
@@ -71,7 +74,7 @@ Kaituo Feng, Manyuan Zhang, **Hongyu Li**, Kaixuan Fan, Shuang Chen, Yilei Jiang
 
 [LLaVA-ST: A Multimodal Large Language Model for Fine-Grained Spatial-Temporal Understanding](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_LLaVA-ST_A_Multimodal_Large_Language_Model_for_Fine-Grained_Spatial-Temporal_Understanding_CVPR_2025_paper.pdf)
 
-**Hongyu Li**\*, Jinyu Chen\*, Ziyu Wei\*, Shaofei Huang, Tianrui Hui, Jialin Gao#, Xiaoming Wei, Si Liu#
+**Hongyu Li**\*, Jinyu Chen\*, Ziyu Wei\*, Shaofei Huang, Tianrui Hui, Jialin Gao, Xiaoming Wei, Si Liu
 
 - First MLLM with Spatial-Temporal Fine-Grained Understanding Capacity
 
@@ -83,7 +86,7 @@ Kaituo Feng, Manyuan Zhang, **Hongyu Li**, Kaixuan Fan, Shuang Chen, Yilei Jiang
 
 [AL-Ref-SAM2: Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation](https://arxiv.org/pdf/2408.15876)
 
-Shaofei Huang\*, Rui Ling\*, **Hongyu Li**\*, Tianrui Hui#, Zongheng Tang, Xiaoming Wei, Jizhong Han, Si Liu#
+Shaofei Huang\*, Rui Ling\*, **Hongyu Li**\*, Tianrui Hui#, Zongheng Tang, Xiaoming Wei, Jizhong Han, Si Liu
 
 - An Agentic Pipeline for Finegrained Lauguage and Audio Referenced Video Segmentation
 
@@ -95,7 +98,7 @@ Shaofei Huang\*, Rui Ling\*, **Hongyu Li**\*, Tianrui Hui#, Zongheng Tang, Xiaom
 
 [Dynamic Prompting of Frozen Text-to-Image Diffusion Models for Panoptic Narrative Grounding](https://arxiv.org/pdf/2409.08251)
 
-**Hongyu Li**\*, Tianrui Hui*, Zihan Ding, Jing Zhang, Bin Ma, Xiaoming Wei, Jizhong Han, Si Liu#
+**Hongyu Li**\*, Tianrui Hui*, Zihan Ding, Jing Zhang, Bin Ma, Xiaoming Wei, Jizhong Han, Si Liu
 
 - Adapt T2I Diffusion Model for Text Referenced Dense Image Gounding
 

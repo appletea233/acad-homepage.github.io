@@ -7,8 +7,11 @@
 
 # Site Settings
 title                    : "Hongyu Li"
-description              : ""
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "Hongyu Li | Multi-modal Learning, Large Language/Vision Models, Embodied AI"
+repository               : "appletea233/acad-homepage.github.io"
+url                      : "https://appletea233.github.io"
+baseurl                  : "/acad-homepage.github.io"
+
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -142,6 +145,7 @@ timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_
 # Plugins
 plugins:
   - jekyll-paginate
+  - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed

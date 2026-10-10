@@ -257,7 +257,7 @@
           "source_id": "2512.05965",
           "authorship_provenance": "Manyuan Zhang is project leader; Si Liu is corresponding author (official project page).",
           "authors_note": "",
-          "summary": "Equips image editors with iterative reasoning and self-refinement for stronger instruction following.",
+          "summary": "Enables MLLMs to use image generators as tools for agentic iterative reasoning and self-refinement of generated results.",
           "summary_source": "https://arxiv.org/abs/2512.05965",
           "thumbnail_source": "https://appletea233.github.io/think-while-edit/"
         }

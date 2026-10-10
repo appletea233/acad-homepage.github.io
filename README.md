@@ -16,7 +16,7 @@ Open http://127.0.0.1:4000/. The launcher uses the workspace-local Ruby/Jekyll r
 
 - `_config.yml`: profile, Google Scholar, email, and deployment URL.
 - `_pages/about.md`: introduction, news, education, and academic service.
-- `_data/publications.json`: the 22 paper records, grouped by research topic. Includes source URLs and authorship/venue provenance, which are not rendered on the page.
+- `_data/publications.json`: the 22 paper records in five research groups, starting with Agentic AI (OneSearch-VL, Gen-Searcher, and EditThinker). Includes source URLs and authorship/venue provenance, which are not rendered on the page.
 - `_includes/publications.html`: compact paper rows and accessible native figure toggles.
 - `_sass/_homepage.scss`: responsive layout and styling.
 - `images/`: portrait, publication figures, and icons.

@@ -3,8 +3,8 @@
   "scholar": "https://scholar.google.com/citations?user=PccL82sAAAAJ&hl=en",
   "groups": [
     {
-      "id": "multimodal-reasoning",
-      "title": "Multimodal Understanding, Reasoning & Agentic Reasoning",
+      "id": "agentic-ai",
+      "title": "Agentic AI",
       "papers": [
         {
           "id": "paper-2610-12419",
@@ -12,7 +12,7 @@
           "year": 2026,
           "venue": "Tech Report",
           "venue_kind": "report",
-          "group": "Multimodal Understanding, Reasoning & Agentic Reasoning",
+          "group": "Agentic AI",
           "authors": [
             {
               "name": "Hongyu Li",
@@ -99,12 +99,181 @@
           "summary_source": "https://arxiv.org/abs/2610.12419"
         },
         {
+          "id": "paper-2603-28767",
+          "title": "Gen-Searcher: Reinforcing Agentic Search for Image Generation",
+          "year": 2026,
+          "venue": "NeurIPS 2026",
+          "venue_kind": "conference",
+          "group": "Agentic AI",
+          "authors": [
+            {
+              "name": "Kaituo Feng",
+              "mark": ""
+            },
+            {
+              "name": "Manyuan Zhang",
+              "mark": ""
+            },
+            {
+              "name": "Shuang Chen",
+              "mark": ""
+            },
+            {
+              "name": "Yunlong Lin",
+              "mark": ""
+            },
+            {
+              "name": "Kaixuan Fan",
+              "mark": ""
+            },
+            {
+              "name": "Yilei Jiang",
+              "mark": ""
+            },
+            {
+              "name": "Hongyu Li",
+              "mark": ""
+            },
+            {
+              "name": "Dian Zheng",
+              "mark": ""
+            },
+            {
+              "name": "Chenyang Wang",
+              "mark": ""
+            },
+            {
+              "name": "Xiangyu Yue",
+              "mark": ""
+            }
+          ],
+          "url": "https://arxiv.org/abs/2603.28767",
+          "pdf": "https://arxiv.org/pdf/2603.28767",
+          "code": "https://github.com/tulerfeng/Gen-Searcher",
+          "project": "https://gen-searcher.vercel.app",
+          "image": "images/gen-searcher.png",
+          "sources": [
+            "https://arxiv.org/abs/2603.28767",
+            "https://scholar.google.com/citations?user=PccL82sAAAAJ&hl=en",
+            "https://neurips.cc/Conferences/2026/Dates",
+            "https://neurips.cc/virtual/2026/poster/153355",
+            "https://manyuan97.github.io/",
+            "https://xyue.io/publications.html"
+          ],
+          "venue_provenance": "User confirmed acceptance on 2026-10-10; independently corroborated by the official NeurIPS 2026 paper directory and coauthor homepages.",
+          "note": "",
+          "source_id": "2603.28767",
+          "authorship_provenance": "",
+          "authors_note": "",
+          "acceptance_month": "2026.09",
+          "acceptance_month_provenance": "September supported by project lead Manyuan Zhang’s September NeurIPS acceptance news and the official September 24 notification schedule.",
+          "summary": "Trains an image-generation agent to retrieve knowledge and reference images through multi-step search, using text and image rewards to improve factual grounding.",
+          "summary_source": "https://arxiv.org/abs/2603.28767",
+          "thumbnail_source": "https://arxiv.org/html/2603.28767v3/teaser2.png"
+        },
+        {
+          "id": "paper-2512-05965",
+          "title": "EditThinker: Unlocking Iterative Reasoning for Any Image Editor",
+          "year": 2025,
+          "venue": "arXiv 2025",
+          "venue_kind": "preprint",
+          "group": "Agentic AI",
+          "authors": [
+            {
+              "name": "Hongyu Li",
+              "mark": ""
+            },
+            {
+              "name": "Manyuan Zhang",
+              "mark": "†"
+            },
+            {
+              "name": "Dian Zheng",
+              "mark": ""
+            },
+            {
+              "name": "Ziyu Guo",
+              "mark": ""
+            },
+            {
+              "name": "Yimeng Jia",
+              "mark": ""
+            },
+            {
+              "name": "Kaituo Feng",
+              "mark": ""
+            },
+            {
+              "name": "Hao Yu",
+              "mark": ""
+            },
+            {
+              "name": "Yexin Liu",
+              "mark": ""
+            },
+            {
+              "name": "Yan Feng",
+              "mark": ""
+            },
+            {
+              "name": "Peng Pei",
+              "mark": ""
+            },
+            {
+              "name": "Xunliang Cai",
+              "mark": ""
+            },
+            {
+              "name": "Linjiang Huang",
+              "mark": ""
+            },
+            {
+              "name": "Hongsheng Li",
+              "mark": ""
+            },
+            {
+              "name": "Si Liu",
+              "mark": "‡"
+            }
+          ],
+          "url": "https://arxiv.org/abs/2512.05965",
+          "pdf": "https://arxiv.org/pdf/2512.05965",
+          "code": "https://github.com/appletea233/EditThinker",
+          "project": "https://appletea233.github.io/think-while-edit/",
+          "image": "images/edit-thinker.png",
+          "sources": [
+            "https://arxiv.org/abs/2512.05965",
+            "https://scholar.google.com/citations?user=PccL82sAAAAJ&hl=en",
+            "https://appletea233.github.io/think-while-edit/"
+          ],
+          "venue_provenance": "Canonical author Google Scholar; arXiv verifies bibliographic metadata",
+          "note": "",
+          "corresponding": [
+            "Si Liu"
+          ],
+          "project_lead": [
+            "Manyuan Zhang"
+          ],
+          "source_id": "2512.05965",
+          "authorship_provenance": "Manyuan Zhang is project leader; Si Liu is corresponding author (official project page).",
+          "authors_note": "",
+          "summary": "Adds an iterative critique-and-refine loop to image editors, using reinforcement learning to improve editing instructions based on feedback from generated results.",
+          "summary_source": "https://arxiv.org/abs/2512.05965",
+          "thumbnail_source": "https://appletea233.github.io/think-while-edit/"
+        }
+      ]
+    },
+    {
+      "id": "multimodal-reasoning",
+      "title": "Multimodal Understanding & Reasoning",
+      "papers": [
+        {
           "id": "paper-2606-27828",
           "title": "Video-MME-Logical: A Controlled Diagnostic Benchmark for Video Temporal-Logical Reasoning",
           "year": 2026,
           "venue": "EMNLP 2026",
           "venue_kind": "conference",
-          "group": "Multimodal Understanding, Reasoning & Agentic Reasoning",
+          "group": "Multimodal Understanding & Reasoning",
           "authors": [
             {
               "name": "Hohin Kwan",
@@ -170,7 +339,7 @@
           "acceptance_month": "2026.08",
           "acceptance_month_provenance": "Month inferred from the official EMNLP 2026 notification schedule (August 20); the individual paper decision day is not independently verified.",
           "published_date": "2026-06-26",
-          "summary": "Uses visual coding for both training and benchmarking video temporal-logical reasoning through controllable synthetic tasks and intermediate-state diagnostics.",
+          "summary": "Uses visual coding to generate controllable videos at scale for training and benchmarking temporal-logical reasoning.",
           "summary_source": "https://arxiv.org/abs/2606.27828"
         },
         {
@@ -179,7 +348,7 @@
           "year": 2025,
           "venue": "NeurIPS@NextVid 2025 Oral",
           "venue_kind": "workshop",
-          "group": "Multimodal Understanding, Reasoning & Agentic Reasoning",
+          "group": "Multimodal Understanding & Reasoning",
           "authors": [
             {
               "name": "Hongyu Li",
@@ -246,7 +415,7 @@
           "year": 2025,
           "venue": "CVPR 2025",
           "venue_kind": "conference",
-          "group": "Multimodal Understanding, Reasoning & Agentic Reasoning",
+          "group": "Multimodal Understanding & Reasoning",
           "authors": [
             {
               "name": "Hongyu Li",
@@ -314,7 +483,7 @@
           "year": 2026,
           "venue": "CVPR 2026",
           "venue_kind": "conference",
-          "group": "Multimodal Understanding, Reasoning & Agentic Reasoning",
+          "group": "Multimodal Understanding & Reasoning",
           "authors": [
             {
               "name": "Kaituo Feng",
@@ -397,7 +566,7 @@
           "year": 2026,
           "venue": "Tech Report",
           "venue_kind": "report",
-          "group": "Multimodal Understanding, Reasoning & Agentic Reasoning",
+          "group": "Multimodal Understanding & Reasoning",
           "authors": [
             {
               "name": "Meituan LongCat Team",
@@ -781,7 +950,7 @@
           "year": 2025,
           "venue": "Tech Report",
           "venue_kind": "report",
-          "group": "Multimodal Understanding, Reasoning & Agentic Reasoning",
+          "group": "Multimodal Understanding & Reasoning",
           "authors": [
             {
               "name": "Zhifei Xie",
@@ -854,7 +1023,7 @@
           "year": 2026,
           "venue": "arXiv 2026",
           "venue_kind": "preprint",
-          "group": "Visual Generation",
+          "group": "Visual Generation & Editing",
           "authors": [
             {
               "name": "Yue Gong",
@@ -931,102 +1100,12 @@
           "thumbnail_source": "https://arxiv.org/html/2603.19206v1/pipeline.png"
         },
         {
-          "id": "paper-2512-05965",
-          "title": "EditThinker: Unlocking Iterative Reasoning for Any Image Editor",
-          "year": 2025,
-          "venue": "arXiv 2025",
-          "venue_kind": "preprint",
-          "group": "Visual Generation",
-          "authors": [
-            {
-              "name": "Hongyu Li",
-              "mark": ""
-            },
-            {
-              "name": "Manyuan Zhang",
-              "mark": "†"
-            },
-            {
-              "name": "Dian Zheng",
-              "mark": ""
-            },
-            {
-              "name": "Ziyu Guo",
-              "mark": ""
-            },
-            {
-              "name": "Yimeng Jia",
-              "mark": ""
-            },
-            {
-              "name": "Kaituo Feng",
-              "mark": ""
-            },
-            {
-              "name": "Hao Yu",
-              "mark": ""
-            },
-            {
-              "name": "Yexin Liu",
-              "mark": ""
-            },
-            {
-              "name": "Yan Feng",
-              "mark": ""
-            },
-            {
-              "name": "Peng Pei",
-              "mark": ""
-            },
-            {
-              "name": "Xunliang Cai",
-              "mark": ""
-            },
-            {
-              "name": "Linjiang Huang",
-              "mark": ""
-            },
-            {
-              "name": "Hongsheng Li",
-              "mark": ""
-            },
-            {
-              "name": "Si Liu",
-              "mark": "‡"
-            }
-          ],
-          "url": "https://arxiv.org/abs/2512.05965",
-          "pdf": "https://arxiv.org/pdf/2512.05965",
-          "code": "https://github.com/appletea233/EditThinker",
-          "project": "https://appletea233.github.io/think-while-edit/",
-          "image": "images/edit-thinker.png",
-          "sources": [
-            "https://arxiv.org/abs/2512.05965",
-            "https://scholar.google.com/citations?user=PccL82sAAAAJ&hl=en",
-            "https://appletea233.github.io/think-while-edit/"
-          ],
-          "venue_provenance": "Canonical author Google Scholar; arXiv verifies bibliographic metadata",
-          "note": "",
-          "corresponding": [
-            "Si Liu"
-          ],
-          "project_lead": [
-            "Manyuan Zhang"
-          ],
-          "source_id": "2512.05965",
-          "authorship_provenance": "Manyuan Zhang is project leader; Si Liu is corresponding author (official project page).",
-          "authors_note": "",
-          "summary": "Adds an iterative critique-and-refine loop to image editors, using reinforcement learning to improve editing instructions based on feedback from generated results.",
-          "summary_source": "https://arxiv.org/abs/2512.05965",
-          "thumbnail_source": "https://appletea233.github.io/think-while-edit/"
-        },
-        {
           "id": "paper-2511-16671",
           "title": "Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation",
           "year": 2026,
           "venue": "CVPR 2026",
           "venue_kind": "conference",
-          "group": "Visual Generation",
+          "group": "Visual Generation & Editing",
           "authors": [
             {
               "name": "Ziyu Guo",
@@ -1100,7 +1179,7 @@
           "year": 2026,
           "venue": "ACM MM 2026 · Oral",
           "venue_kind": "conference",
-          "group": "Visual Generation",
+          "group": "Visual Generation & Editing",
           "authors": [
             {
               "name": "Hao Yu",
@@ -1173,7 +1252,7 @@
           "year": 2026,
           "venue": "ECCV 2026",
           "venue_kind": "conference",
-          "group": "Visual Generation",
+          "group": "Visual Generation & Editing",
           "authors": [
             {
               "name": "Yexin Liu",
@@ -1250,7 +1329,7 @@
           "year": 2026,
           "venue": "arXiv 2026",
           "venue_kind": "preprint",
-          "group": "Visual Generation",
+          "group": "Visual Generation & Editing",
           "authors": [
             {
               "name": "Dian Zheng",
@@ -1300,85 +1379,12 @@
           "thumbnail_source": "https://arxiv.org/html/2605.21487v2/teaser.png"
         },
         {
-          "id": "paper-2603-28767",
-          "title": "Gen-Searcher: Reinforcing Agentic Search for Image Generation",
-          "year": 2026,
-          "venue": "NeurIPS 2026",
-          "venue_kind": "conference",
-          "group": "Visual Generation",
-          "authors": [
-            {
-              "name": "Kaituo Feng",
-              "mark": ""
-            },
-            {
-              "name": "Manyuan Zhang",
-              "mark": ""
-            },
-            {
-              "name": "Shuang Chen",
-              "mark": ""
-            },
-            {
-              "name": "Yunlong Lin",
-              "mark": ""
-            },
-            {
-              "name": "Kaixuan Fan",
-              "mark": ""
-            },
-            {
-              "name": "Yilei Jiang",
-              "mark": ""
-            },
-            {
-              "name": "Hongyu Li",
-              "mark": ""
-            },
-            {
-              "name": "Dian Zheng",
-              "mark": ""
-            },
-            {
-              "name": "Chenyang Wang",
-              "mark": ""
-            },
-            {
-              "name": "Xiangyu Yue",
-              "mark": ""
-            }
-          ],
-          "url": "https://arxiv.org/abs/2603.28767",
-          "pdf": "https://arxiv.org/pdf/2603.28767",
-          "code": "https://github.com/tulerfeng/Gen-Searcher",
-          "project": "https://gen-searcher.vercel.app",
-          "image": "images/gen-searcher.png",
-          "sources": [
-            "https://arxiv.org/abs/2603.28767",
-            "https://scholar.google.com/citations?user=PccL82sAAAAJ&hl=en",
-            "https://neurips.cc/Conferences/2026/Dates",
-            "https://neurips.cc/virtual/2026/poster/153355",
-            "https://manyuan97.github.io/",
-            "https://xyue.io/publications.html"
-          ],
-          "venue_provenance": "User confirmed acceptance on 2026-10-10; independently corroborated by the official NeurIPS 2026 paper directory and coauthor homepages.",
-          "note": "",
-          "source_id": "2603.28767",
-          "authorship_provenance": "",
-          "authors_note": "",
-          "acceptance_month": "2026.09",
-          "acceptance_month_provenance": "September supported by project lead Manyuan Zhang’s September NeurIPS acceptance news and the official September 24 notification schedule.",
-          "summary": "Trains an image-generation agent to retrieve knowledge and reference images through multi-step search, using text and image rewards to improve factual grounding.",
-          "summary_source": "https://arxiv.org/abs/2603.28767",
-          "thumbnail_source": "https://arxiv.org/html/2603.28767v3/teaser2.png"
-        },
-        {
           "id": "paper-2511-22663",
           "title": "AIA: Rethinking Architecture Decoupling Strategy In Unified Multimodal Model",
           "year": 2025,
           "venue": "arXiv 2025",
           "venue_kind": "preprint",
-          "group": "Visual Generation",
+          "group": "Visual Generation & Editing",
           "authors": [
             {
               "name": "Dian Zheng",

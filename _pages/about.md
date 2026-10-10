@@ -12,9 +12,7 @@ I am a master's student at [Beihang University](https://www.buaa.edu.cn/), super
 
 My research interests include **Agentic AI**, **MLLMs**, **AIGC**, and **Embodied AI**.
 
-✉️ **I’ll be on the job market in 2027. Happy to connect about opportunities!**
-
-<span class="contact-note">I’m always open to discussions and collaboration. Feel free to [drop me an email](mailto:hongyuer0317@gmail.com)!</span>
+<p class="job-market-note">✉️ <strong>I’ll be on the job market in 2027. Happy to connect about opportunities!</strong></p>
 </div>
 
 # 🔥 News

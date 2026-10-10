@@ -10,11 +10,11 @@ redirect_from:
 <div class="introduction" id="about-me" markdown="1">
 I am a master's student at [Beihang University](https://www.buaa.edu.cn/), supervised by [Prof. Si Liu](https://colalab.net/). Before that, I received my bachelor's degree in Software Engineering from Beihang University.
 
-My research interests include **multimodal reasoning and understanding**, **visual generation and editing**, and **embodied AI**.
+My research interests include **Agentic AI**, **MLLMs**, **AIGC**, and **Embodied AI**.
 
 ✉️ **I’ll be on the job market in 2027. Happy to connect about opportunities!**
 
-<span class="contact-note">I'm always open to collaboration and interesting discussions. Feel free to [get in touch](mailto:hongyuer0317@gmail.com)!</span>
+<span class="contact-note">I’m always open to discussions and collaboration. Feel free to [drop me an email](mailto:hongyuer0317@gmail.com)!</span>
 </div>
 
 # 🔥 News

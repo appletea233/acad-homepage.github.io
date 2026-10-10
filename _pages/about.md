@@ -23,7 +23,7 @@ My research interests include **Agentic AI**, **MLLMs**, **AIGC**, and **Embodie
   <li><em>2026.09:</em> 🎉 <a href="https://arxiv.org/abs/2603.28767">Gen-Searcher</a> is accepted to NeurIPS 2026.</li>
   <li><em>2026.08:</em> 🎉 <a href="https://arxiv.org/abs/2511.20211">OmniAlpha</a> is accepted to ACM MM 2026 as an <strong>Oral</strong> presentation.</li>
   <li><em>2026.08:</em> 🎉 <a href="https://arxiv.org/abs/2606.27828">Video-MME-Logical</a> is accepted to Findings of EMNLP 2026.</li>
-  <li><em>2026.06:</em> 🔥 Released <a href="https://arxiv.org/abs/2606.27828">Video-MME-Logical</a>, using visual coding to generate controllable videos at scale for training and benchmarking temporal-logical reasoning.</li>
+  <li><em>2026.06:</em> 🔥 Released <a href="https://arxiv.org/abs/2606.27828">Video-MME-Logical</a>, using visual coding to generate controllable videos at scale for training and benchmarking.</li>
   <li><em>2026.06:</em> 🎉 <a href="https://arxiv.org/abs/2512.08294">OpenSubject</a> is accepted to ECCV 2026.</li>
   <li><em>2026.03:</em> 🔥 Released <a href="https://gen-searcher.vercel.app">Gen-Searcher</a>, a deep research agent that searches for knowledge and reference images to guide image generation.</li>
   <li><em>2026.02:</em> 🎉 Four papers are accepted to CVPR 2026 (3 Main, 1 Findings).</li>

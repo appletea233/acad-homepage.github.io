@@ -24,6 +24,7 @@ My research interests include **multimodal reasoning and understanding**, **visu
   <li><em>2026.10:</em> 🔥 Released <a href="https://arxiv.org/abs/2610.12419">OneSearch-VL</a>, a unified multimodal deep research agent for images and videos.</li>
   <li><em>2026.09:</em> 🎉 <a href="https://arxiv.org/abs/2603.28767">Gen-Searcher</a> is accepted to NeurIPS 2026.</li>
   <li><em>2026.08:</em> 🎉 <a href="https://arxiv.org/abs/2511.20211">OmniAlpha</a> is accepted to ACM MM 2026 as an <strong>Oral</strong> presentation.</li>
+  <li><em>2026.08:</em> 🎉 <a href="https://arxiv.org/abs/2606.27828">Video-MME-Logical</a> is accepted to Findings of EMNLP 2026.</li>
   <li><em>2026.06:</em> 🔥 Released <a href="https://arxiv.org/abs/2606.27828">Video-MME-Logical</a>, using visual coding to generate controllable videos for training and benchmarking temporal-logical reasoning.</li>
   <li><em>2026.06:</em> 🎉 <a href="https://arxiv.org/abs/2512.08294">OpenSubject</a> is accepted to ECCV 2026.</li>
   <li><em>2026.03:</em> 🔥 Released <a href="https://gen-searcher.vercel.app">Gen-Searcher</a>, a deep research agent that searches for knowledge and reference images to guide image generation.</li>

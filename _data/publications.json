@@ -167,7 +167,7 @@
           "authors_note": "",
           "acceptance_month": "2026.09",
           "acceptance_month_provenance": "September supported by project lead Manyuan Zhang’s September NeurIPS acceptance news and the official September 24 notification schedule.",
-          "summary": "Trains an image-generation agent to retrieve knowledge and reference images through multi-step search, using text and image rewards to improve factual grounding.",
+          "summary": "First work to explore training a deep research agent for generation.",
           "summary_source": "https://arxiv.org/abs/2603.28767",
           "thumbnail_source": "https://arxiv.org/html/2603.28767v3/teaser2.png"
         },

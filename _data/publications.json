@@ -1,0 +1,1893 @@
+{
+  "updated": "2026-10-10",
+  "scholar": "https://scholar.google.com/citations?user=PccL82sAAAAJ&hl=en",
+  "groups": [
+    {
+      "id": "multimodal-reasoning",
+      "title": "Multimodal Reasoning & Understanding",
+      "papers": [
+        {
+          "id": "paper-2610-12419",
+          "title": "OneSearch-VL: Unified Multimodal Deep Research Agent for Image and Video",
+          "year": 2026,
+          "venue": "Tech Report",
+          "venue_kind": "report",
+          "group": "Multimodal Reasoning & Understanding",
+          "authors": [
+            {
+              "name": "Hongyu Li",
+              "mark": ""
+            },
+            {
+              "name": "Manyuan Zhang",
+              "mark": "†"
+            },
+            {
+              "name": "Kaituo Feng",
+              "mark": ""
+            },
+            {
+              "name": "Shu Chen",
+              "mark": ""
+            },
+            {
+              "name": "Dian Zheng",
+              "mark": ""
+            },
+            {
+              "name": "Hao Li",
+              "mark": ""
+            },
+            {
+              "name": "Hao Yu",
+              "mark": ""
+            },
+            {
+              "name": "Zhangquan Chen",
+              "mark": ""
+            },
+            {
+              "name": "Zoey Guo",
+              "mark": ""
+            },
+            {
+              "name": "Ray Zhang",
+              "mark": ""
+            },
+            {
+              "name": "Shaofei Huang",
+              "mark": ""
+            },
+            {
+              "name": "Tianrui Hui",
+              "mark": ""
+            },
+            {
+              "name": "Linjiang Huang",
+              "mark": ""
+            },
+            {
+              "name": "Si Liu",
+              "mark": "‡"
+            }
+          ],
+          "url": "https://arxiv.org/abs/2610.12419",
+          "pdf": "https://arxiv.org/pdf/2610.12419",
+          "code": "https://github.com/appletea233/OneSearch-VL",
+          "project": null,
+          "image": "images/onesearch-vl.png",
+          "sources": [
+            "https://arxiv.org/abs/2610.12419",
+            "https://github.com/appletea233/OneSearch-VL",
+            "https://arxiv.org/pdf/2610.12419"
+          ],
+          "venue_provenance": "New preprint provided by user; arXiv v1 submitted 2026-10-08 verifies exact title, author order and code URL.",
+          "note": "Not yet in canonical Scholar snapshot; user explicitly identified this latest release. No conference acceptance claimed.",
+          "published_date": "2026-10-08",
+          "project_lead": [
+            "Manyuan Zhang"
+          ],
+          "corresponding": [
+            "Si Liu"
+          ],
+          "thumbnail_source": "https://arxiv.org/html/2610.12419v1/pipeline-data.png",
+          "model": "https://huggingface.co/OneSearch-VL",
+          "source_id": "2610.12419",
+          "authorship_provenance": "Manyuan Zhang is project leader; Si Liu is corresponding author (verified original PDF page 1).",
+          "authors_note": "",
+          "summary": "Unifies deep research across single images, multiple images, and videos through visually grounded evidence graphs and evidence-aware reinforcement learning.",
+          "summary_source": "https://arxiv.org/abs/2610.12419"
+        },
+        {
+          "id": "paper-2606-27828",
+          "title": "Video-MME-Logical: A Controlled Diagnostic Benchmark for Video Temporal-Logical Reasoning",
+          "year": 2026,
+          "venue": "EMNLP 2026",
+          "venue_kind": "conference",
+          "group": "Multimodal Reasoning & Understanding",
+          "authors": [
+            {
+              "name": "Hohin Kwan",
+              "mark": "*"
+            },
+            {
+              "name": "Hongyu Li",
+              "mark": "*†"
+            },
+            {
+              "name": "Ray Zhang",
+              "mark": ""
+            },
+            {
+              "name": "Manyuan Zhang",
+              "mark": ""
+            },
+            {
+              "name": "Xianghao Kong",
+              "mark": ""
+            },
+            {
+              "name": "Anyi Rao",
+              "mark": ""
+            },
+            {
+              "name": "Jiahao Xie",
+              "mark": "‡"
+            },
+            {
+              "name": "Si Liu",
+              "mark": ""
+            }
+          ],
+          "url": "https://arxiv.org/abs/2606.27828",
+          "pdf": "https://arxiv.org/pdf/2606.27828",
+          "code": "https://github.com/Mrakas/video-mme-logical",
+          "project": "https://mrakas.github.io/video-mme-logical/",
+          "image": "images/video-mme-logical.png",
+          "sources": [
+            "https://arxiv.org/abs/2606.27828",
+            "https://scholar.google.com/citations?user=PccL82sAAAAJ&hl=en",
+            "https://mrakas.github.io/video-mme-logical/",
+            "https://github.com/Mrakas/video-mme-logical",
+            "https://2026.emnlp.org/calls/main_conference_papers/"
+          ],
+          "venue_provenance": "Author project page and repository corroborate acceptance; also canonical Scholar.",
+          "note": "",
+          "equal_contribution": [
+            "Hohin Kwan",
+            "Hongyu Li"
+          ],
+          "project_lead": [
+            "Hongyu Li"
+          ],
+          "corresponding": [
+            "Jiahao Xie"
+          ],
+          "source_id": "2606.27828",
+          "authorship_provenance": "Hohin Kwan and Hongyu Li contributed equally; Hongyu Li is Project Lead; Jiahao Xie is corresponding author.",
+          "authors_note": "",
+          "thumbnail_source": "https://mrakas.github.io/video-mme-logical/_astro/figure1.pdf_ZCdjNU.png",
+          "acceptance_month": "2026.08",
+          "acceptance_month_provenance": "Month inferred from the official EMNLP 2026 notification schedule (August 20); the individual paper decision day is not independently verified.",
+          "published_date": "2026-06-26",
+          "summary": "Uses visual coding for both training and benchmarking video temporal-logical reasoning through controllable synthetic tasks and intermediate-state diagnostics.",
+          "summary_source": "https://arxiv.org/abs/2606.27828"
+        },
+        {
+          "id": "paper-2506-01908",
+          "title": "Reinforcement Learning Tuning for VideoLLMs: Reward Design and Data Efficiency",
+          "year": 2025,
+          "venue": "NeurIPS@NextVid 2025 Oral",
+          "venue_kind": "workshop",
+          "group": "Multimodal Reasoning & Understanding",
+          "authors": [
+            {
+              "name": "Hongyu Li",
+              "mark": "*"
+            },
+            {
+              "name": "Songhao Han",
+              "mark": "*"
+            },
+            {
+              "name": "Yue Liao",
+              "mark": "*†"
+            },
+            {
+              "name": "Junfeng Luo",
+              "mark": ""
+            },
+            {
+              "name": "Jialin Gao",
+              "mark": ""
+            },
+            {
+              "name": "Shuicheng Yan",
+              "mark": ""
+            },
+            {
+              "name": "Si Liu",
+              "mark": "‡"
+            }
+          ],
+          "url": "https://arxiv.org/abs/2506.01908",
+          "pdf": "https://arxiv.org/pdf/2506.01908",
+          "code": "https://github.com/appletea233/Temporal-R1",
+          "project": null,
+          "image": "images/temporal-r1.png",
+          "sources": [
+            "https://arxiv.org/abs/2506.01908",
+            "https://scholar.google.com/citations?user=PccL82sAAAAJ&hl=en",
+            "https://what-makes-good-video.github.io/",
+            "https://what-makes-good-video.github.io/assets/12_Reinforcement_Learning_Tuni.pdf"
+          ],
+          "venue_provenance": "Canonical Scholar and existing homepage confirm Oral; official NextVid workshop lists accepted paper.",
+          "note": "",
+          "equal_contribution": [
+            "Hongyu Li",
+            "Songhao Han",
+            "Yue Liao"
+          ],
+          "project_lead": [
+            "Yue Liao"
+          ],
+          "corresponding": [
+            "Si Liu"
+          ],
+          "source_id": "2506.01908",
+          "authorship_provenance": "Hongyu Li, Songhao Han, and Yue Liao contributed equally; Yue Liao is project lead; Si Liu is corresponding author (official workshop PDF).",
+          "authors_note": "",
+          "summary": "Combines semantic and temporal rewards with variance-aware data selection to improve video reasoning through data-efficient reinforcement learning.",
+          "summary_source": "https://arxiv.org/abs/2506.01908"
+        },
+        {
+          "id": "paper-2501-08282",
+          "title": "LLaVA-ST: A Multimodal Large Language Model for Fine-Grained Spatial-Temporal Understanding",
+          "year": 2025,
+          "venue": "CVPR 2025",
+          "venue_kind": "conference",
+          "group": "Multimodal Reasoning & Understanding",
+          "authors": [
+            {
+              "name": "Hongyu Li",
+              "mark": "*"
+            },
+            {
+              "name": "Jinyu Chen",
+              "mark": "*"
+            },
+            {
+              "name": "Ziyu Wei",
+              "mark": "*"
+            },
+            {
+              "name": "Shaofei Huang",
+              "mark": ""
+            },
+            {
+              "name": "Tianrui Hui",
+              "mark": ""
+            },
+            {
+              "name": "Jialin Gao",
+              "mark": ""
+            },
+            {
+              "name": "Xiaoming Wei",
+              "mark": ""
+            },
+            {
+              "name": "Si Liu",
+              "mark": ""
+            }
+          ],
+          "url": "https://arxiv.org/abs/2501.08282",
+          "pdf": "https://arxiv.org/pdf/2501.08282",
+          "code": "https://github.com/appletea233/LLaVA-ST",
+          "project": null,
+          "image": "images/llava-st.png",
+          "sources": [
+            "https://arxiv.org/abs/2501.08282",
+            "https://scholar.google.com/citations?user=PccL82sAAAAJ&hl=en",
+            "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_LLaVA-ST_A_Multimodal_Large_Language_Model_for_Fine-Grained_Spatial-Temporal_Understanding_CVPR_2025_paper.pdf",
+            "https://github.com/appletea233/LLaVA-ST#-news"
+          ],
+          "venue_provenance": "CVF proceedings and canonical Scholar.",
+          "note": "",
+          "equal_contribution": [
+            "Hongyu Li",
+            "Jinyu Chen",
+            "Ziyu Wei"
+          ],
+          "source_id": "2501.08282",
+          "authorship_provenance": "Hongyu Li, Jinyu Chen, and Ziyu Wei contributed equally (existing homepage and paper).",
+          "authors_note": "",
+          "published_date": "2025-01-14",
+          "release_date": "2025-07-05",
+          "release_provenance": "Official LLaVA-ST repository News records code, model, benchmark, and dataset release on 2025-07-05.",
+          "summary": "Aligns coordinate tokens with visual features and preserves spatial-temporal detail during compression, enabling fine-grained video grounding with the ST-Align dataset and benchmark.",
+          "summary_source": "https://arxiv.org/abs/2501.08282"
+        },
+        {
+          "id": "paper-2512-03043",
+          "title": "OneThinker: All-in-one Reasoning Model for Image and Video",
+          "year": 2026,
+          "venue": "CVPR 2026",
+          "venue_kind": "conference",
+          "group": "Multimodal Reasoning & Understanding",
+          "authors": [
+            {
+              "name": "Kaituo Feng",
+              "mark": ""
+            },
+            {
+              "name": "Manyuan Zhang",
+              "mark": ""
+            },
+            {
+              "name": "Hongyu Li",
+              "mark": ""
+            },
+            {
+              "name": "Kaixuan Fan",
+              "mark": ""
+            },
+            {
+              "name": "Shuang Chen",
+              "mark": ""
+            },
+            {
+              "name": "Yilei Jiang",
+              "mark": ""
+            },
+            {
+              "name": "Dian Zheng",
+              "mark": ""
+            },
+            {
+              "name": "Peiwen Sun",
+              "mark": ""
+            },
+            {
+              "name": "Yiyuan Zhang",
+              "mark": ""
+            },
+            {
+              "name": "Haoze Sun",
+              "mark": ""
+            },
+            {
+              "name": "Yan Feng",
+              "mark": ""
+            },
+            {
+              "name": "Peng Pei",
+              "mark": ""
+            },
+            {
+              "name": "Xunliang Cai",
+              "mark": ""
+            },
+            {
+              "name": "Xiangyu Yue",
+              "mark": ""
+            }
+          ],
+          "url": "https://arxiv.org/abs/2512.03043",
+          "pdf": "https://arxiv.org/pdf/2512.03043",
+          "code": "https://github.com/tulerfeng/OneThinker",
+          "project": null,
+          "image": "images/onethinker.png",
+          "sources": [
+            "https://arxiv.org/abs/2512.03043",
+            "https://scholar.google.com/citations?user=PccL82sAAAAJ&hl=en"
+          ],
+          "venue_provenance": "Canonical Scholar, existing homepage and official code repository.",
+          "note": "",
+          "source_id": "2512.03043",
+          "authorship_provenance": "",
+          "authors_note": "",
+          "published_date": "2025-12-02",
+          "summary": "Unifies reasoning across ten image and video tasks through multi-task reinforcement learning, with evaluation on 31 benchmarks.",
+          "summary_source": "https://arxiv.org/abs/2512.03043"
+        },
+        {
+          "id": "paper-2603-27538",
+          "title": "LongCat-Next: Lexicalizing Modalities as Discrete Tokens",
+          "year": 2026,
+          "venue": "Tech Report",
+          "venue_kind": "report",
+          "group": "Multimodal Reasoning & Understanding",
+          "authors": [
+            {
+              "name": "Meituan LongCat Team",
+              "mark": ""
+            },
+            {
+              "name": "Bin Xiao",
+              "mark": ""
+            },
+            {
+              "name": "Chao Wang",
+              "mark": ""
+            },
+            {
+              "name": "Chengjiang Li",
+              "mark": ""
+            },
+            {
+              "name": "Chi Zhang",
+              "mark": ""
+            },
+            {
+              "name": "Chong Peng",
+              "mark": ""
+            },
+            {
+              "name": "Hang Yu",
+              "mark": ""
+            },
+            {
+              "name": "Hao Yang",
+              "mark": ""
+            },
+            {
+              "name": "Haonan Yan",
+              "mark": ""
+            },
+            {
+              "name": "Haoze Sun",
+              "mark": ""
+            },
+            {
+              "name": "Haozhe Zhao",
+              "mark": ""
+            },
+            {
+              "name": "Hong Liu",
+              "mark": ""
+            },
+            {
+              "name": "Hui Su",
+              "mark": ""
+            },
+            {
+              "name": "Jiaqi Zhang",
+              "mark": ""
+            },
+            {
+              "name": "Jiawei Wang",
+              "mark": ""
+            },
+            {
+              "name": "Jing Li",
+              "mark": ""
+            },
+            {
+              "name": "Kefeng Zhang",
+              "mark": ""
+            },
+            {
+              "name": "Manyuan Zhang",
+              "mark": ""
+            },
+            {
+              "name": "Minhao Jing",
+              "mark": ""
+            },
+            {
+              "name": "Peng Pei",
+              "mark": ""
+            },
+            {
+              "name": "Quan Chen",
+              "mark": ""
+            },
+            {
+              "name": "Taofeng Xue",
+              "mark": ""
+            },
+            {
+              "name": "Tongxin Pan",
+              "mark": ""
+            },
+            {
+              "name": "Xiaotong Li",
+              "mark": ""
+            },
+            {
+              "name": "Xiaoyang Li",
+              "mark": ""
+            },
+            {
+              "name": "Xiaoyu Zhao",
+              "mark": ""
+            },
+            {
+              "name": "Xing Hu",
+              "mark": ""
+            },
+            {
+              "name": "Xinyang Lin",
+              "mark": ""
+            },
+            {
+              "name": "Xunliang Cai",
+              "mark": ""
+            },
+            {
+              "name": "Yan Bai",
+              "mark": ""
+            },
+            {
+              "name": "Yan Feng",
+              "mark": ""
+            },
+            {
+              "name": "Yanjie Li",
+              "mark": ""
+            },
+            {
+              "name": "Yao Qiu",
+              "mark": ""
+            },
+            {
+              "name": "Yerui Sun",
+              "mark": ""
+            },
+            {
+              "name": "Yifan Lu",
+              "mark": ""
+            },
+            {
+              "name": "Ying Luo",
+              "mark": ""
+            },
+            {
+              "name": "Yipeng Mei",
+              "mark": ""
+            },
+            {
+              "name": "Yitian Chen",
+              "mark": ""
+            },
+            {
+              "name": "Yuchen Xie",
+              "mark": ""
+            },
+            {
+              "name": "Yufang Liu",
+              "mark": ""
+            },
+            {
+              "name": "Yufei Chen",
+              "mark": ""
+            },
+            {
+              "name": "Yulei Qian",
+              "mark": ""
+            },
+            {
+              "name": "Yuqi Peng",
+              "mark": ""
+            },
+            {
+              "name": "Zhihang Yu",
+              "mark": ""
+            },
+            {
+              "name": "Zhixiong Han",
+              "mark": ""
+            },
+            {
+              "name": "Changran Wang",
+              "mark": ""
+            },
+            {
+              "name": "Chen Chen",
+              "mark": ""
+            },
+            {
+              "name": "Dian Zheng",
+              "mark": ""
+            },
+            {
+              "name": "Fengjiao Chen",
+              "mark": ""
+            },
+            {
+              "name": "Ge Yang",
+              "mark": ""
+            },
+            {
+              "name": "Haowei Guo",
+              "mark": ""
+            },
+            {
+              "name": "Haozhe Wang",
+              "mark": ""
+            },
+            {
+              "name": "Hongyu Li",
+              "mark": ""
+            },
+            {
+              "name": "Huicheng Jiang",
+              "mark": ""
+            },
+            {
+              "name": "Jiale Hong",
+              "mark": ""
+            },
+            {
+              "name": "Jialv Zou",
+              "mark": ""
+            },
+            {
+              "name": "Jiamu Li",
+              "mark": ""
+            },
+            {
+              "name": "Jianping Lin",
+              "mark": ""
+            },
+            {
+              "name": "Jiaxing Liu",
+              "mark": ""
+            },
+            {
+              "name": "Jie Yang",
+              "mark": ""
+            },
+            {
+              "name": "Jing Jin",
+              "mark": ""
+            },
+            {
+              "name": "Jun Kuang",
+              "mark": ""
+            },
+            {
+              "name": "Juncheng She",
+              "mark": ""
+            },
+            {
+              "name": "Kunming Luo",
+              "mark": ""
+            },
+            {
+              "name": "Kuofeng Gao",
+              "mark": ""
+            },
+            {
+              "name": "Lin Qiu",
+              "mark": ""
+            },
+            {
+              "name": "Linsen Guo",
+              "mark": ""
+            },
+            {
+              "name": "Mianqiu Huang",
+              "mark": ""
+            },
+            {
+              "name": "Qi Li",
+              "mark": ""
+            },
+            {
+              "name": "Qian Wang",
+              "mark": ""
+            },
+            {
+              "name": "Rumei Li",
+              "mark": ""
+            },
+            {
+              "name": "Siyu Ren",
+              "mark": ""
+            },
+            {
+              "name": "Wei Wang",
+              "mark": ""
+            },
+            {
+              "name": "Wenlong He",
+              "mark": ""
+            },
+            {
+              "name": "Xi Chen",
+              "mark": ""
+            },
+            {
+              "name": "Xiao Liu",
+              "mark": ""
+            },
+            {
+              "name": "Xiaoyu Li",
+              "mark": ""
+            },
+            {
+              "name": "Xu Huang",
+              "mark": ""
+            },
+            {
+              "name": "Xuanyu Zhu",
+              "mark": ""
+            },
+            {
+              "name": "Xuezhi Cao",
+              "mark": ""
+            },
+            {
+              "name": "Yaoming Zhu",
+              "mark": ""
+            },
+            {
+              "name": "Yifei Cao",
+              "mark": ""
+            },
+            {
+              "name": "Yimeng Jia",
+              "mark": ""
+            },
+            {
+              "name": "Yizhen Jiang",
+              "mark": ""
+            },
+            {
+              "name": "Yufei Gao",
+              "mark": ""
+            },
+            {
+              "name": "Zeyang Hu",
+              "mark": ""
+            },
+            {
+              "name": "Zhenlong Yuan",
+              "mark": ""
+            },
+            {
+              "name": "Zijian Zhang",
+              "mark": ""
+            },
+            {
+              "name": "Ziwen Wang",
+              "mark": ""
+            }
+          ],
+          "url": "https://arxiv.org/abs/2603.27538",
+          "pdf": "https://arxiv.org/pdf/2603.27538",
+          "code": "https://github.com/meituan-longcat/LongCat-Next",
+          "project": "https://longcat.chat/longcat-next/intro",
+          "image": "images/longcat-next.png",
+          "sources": [
+            "https://arxiv.org/abs/2603.27538",
+            "https://scholar.google.com/citations?user=PccL82sAAAAJ&hl=en"
+          ],
+          "venue_provenance": "Canonical author Google Scholar; arXiv verifies bibliographic metadata",
+          "note": "Official report uses team authorship; complete author list includes Hongyu Li. Prefer team name for compact display.",
+          "authors_display": "Meituan LongCat Team (including Hongyu Li)",
+          "source_id": "2603.27538",
+          "authorship_provenance": "",
+          "authors_note": "",
+          "summary": "Represents text, images, and audio as discrete tokens in a shared autoregressive framework, unifying multimodal understanding and generation with native-resolution visual tokenization.",
+          "summary_source": "https://arxiv.org/abs/2603.27538",
+          "thumbnail_source": "https://arxiv.org/html/2603.27538v1/Overview.png"
+        },
+        {
+          "id": "paper-2508-15827",
+          "title": "Mini-Omni-Reasoner: Token-Level Thinking-in-Speaking in Large Speech Models",
+          "year": 2025,
+          "venue": "Tech Report",
+          "venue_kind": "report",
+          "group": "Multimodal Reasoning & Understanding",
+          "authors": [
+            {
+              "name": "Zhifei Xie",
+              "mark": ""
+            },
+            {
+              "name": "Ziyang Ma",
+              "mark": ""
+            },
+            {
+              "name": "Zihang Liu",
+              "mark": ""
+            },
+            {
+              "name": "Kaiyu Pang",
+              "mark": ""
+            },
+            {
+              "name": "Hongyu Li",
+              "mark": ""
+            },
+            {
+              "name": "Jialin Zhang",
+              "mark": ""
+            },
+            {
+              "name": "Yue Liao",
+              "mark": ""
+            },
+            {
+              "name": "Deheng Ye",
+              "mark": ""
+            },
+            {
+              "name": "Chunyan Miao",
+              "mark": ""
+            },
+            {
+              "name": "Shuicheng Yan",
+              "mark": ""
+            }
+          ],
+          "url": "https://arxiv.org/abs/2508.15827",
+          "pdf": "https://arxiv.org/pdf/2508.15827",
+          "code": "https://github.com/xzf-thu/Mini-Omni-Reasoner",
+          "project": null,
+          "image": "images/mini-omni-reasoner.png",
+          "sources": [
+            "https://arxiv.org/abs/2508.15827",
+            "https://scholar.google.com/citations?user=PccL82sAAAAJ&hl=en"
+          ],
+          "venue_provenance": "Canonical author Google Scholar; arXiv verifies bibliographic metadata",
+          "note": "",
+          "source_id": "2508.15827",
+          "authorship_provenance": "",
+          "authors_note": "",
+          "summary": "Interleaves silent reasoning tokens with spoken response tokens in a hierarchical Thinker-Talker architecture, enabling structured reasoning during fluent, low-latency speech generation.",
+          "summary_source": "https://arxiv.org/abs/2508.15827",
+          "thumbnail_source": "https://arxiv.org/html/2508.15827v2/figure2.png"
+        }
+      ]
+    },
+    {
+      "id": "visual-generation",
+      "title": "Visual Generation & Editing",
+      "papers": [
+        {
+          "id": "paper-2603-19206",
+          "title": "RPiAE: A Representation-Pivoted Autoencoder Enhancing Both Image Generation and Editing",
+          "year": 2026,
+          "venue": "arXiv 2026",
+          "venue_kind": "preprint",
+          "group": "Visual Generation",
+          "authors": [
+            {
+              "name": "Yue Gong",
+              "mark": "*"
+            },
+            {
+              "name": "Hongyu Li",
+              "mark": "*"
+            },
+            {
+              "name": "Shanyuan Liu",
+              "mark": "*"
+            },
+            {
+              "name": "Bo Cheng",
+              "mark": ""
+            },
+            {
+              "name": "Yuhang Ma",
+              "mark": ""
+            },
+            {
+              "name": "Liebucha Wu",
+              "mark": ""
+            },
+            {
+              "name": "Xiaoyu Wu",
+              "mark": ""
+            },
+            {
+              "name": "Manyuan Zhang",
+              "mark": ""
+            },
+            {
+              "name": "Dawei Leng",
+              "mark": "‡"
+            },
+            {
+              "name": "Yuhui Yin",
+              "mark": ""
+            },
+            {
+              "name": "Lijun Zhang",
+              "mark": "‡"
+            }
+          ],
+          "url": "https://arxiv.org/abs/2603.19206",
+          "pdf": "https://arxiv.org/pdf/2603.19206",
+          "code": "https://github.com/360CVGroup/RPiAE",
+          "project": "https://arthuring.github.io/RPiAE-page/",
+          "image": "images/rpiae.png",
+          "sources": [
+            "https://arxiv.org/abs/2603.19206",
+            "https://scholar.google.com/citations?user=PccL82sAAAAJ&hl=en",
+            "https://arxiv.org/html/2603.19206",
+            "https://arthuring.github.io/RPiAE-page/"
+          ],
+          "venue_provenance": "Canonical author Google Scholar; arXiv verifies bibliographic metadata",
+          "note": "",
+          "equal_contribution": [
+            "Yue Gong",
+            "Hongyu Li",
+            "Shanyuan Liu"
+          ],
+          "corresponding": [
+            "Dawei Leng",
+            "Lijun Zhang"
+          ],
+          "source_id": "2603.19206",
+          "authorship_provenance": "Yue Gong, Hongyu Li, and Shanyuan Liu contributed equally; Dawei Leng and Lijun Zhang are corresponding authors (arXiv HTML).",
+          "authors_note": "",
+          "summary": "Adapts pretrained visual features into compact image tokens while preserving semantic structure and reconstruction detail, improving both image generation and editing.",
+          "summary_source": "https://arxiv.org/abs/2603.19206",
+          "thumbnail_source": "https://arxiv.org/html/2603.19206v1/pipeline.png"
+        },
+        {
+          "id": "paper-2512-05965",
+          "title": "EditThinker: Unlocking Iterative Reasoning for Any Image Editor",
+          "year": 2025,
+          "venue": "arXiv 2025",
+          "venue_kind": "preprint",
+          "group": "Visual Generation",
+          "authors": [
+            {
+              "name": "Hongyu Li",
+              "mark": ""
+            },
+            {
+              "name": "Manyuan Zhang",
+              "mark": "†"
+            },
+            {
+              "name": "Dian Zheng",
+              "mark": ""
+            },
+            {
+              "name": "Ziyu Guo",
+              "mark": ""
+            },
+            {
+              "name": "Yimeng Jia",
+              "mark": ""
+            },
+            {
+              "name": "Kaituo Feng",
+              "mark": ""
+            },
+            {
+              "name": "Hao Yu",
+              "mark": ""
+            },
+            {
+              "name": "Yexin Liu",
+              "mark": ""
+            },
+            {
+              "name": "Yan Feng",
+              "mark": ""
+            },
+            {
+              "name": "Peng Pei",
+              "mark": ""
+            },
+            {
+              "name": "Xunliang Cai",
+              "mark": ""
+            },
+            {
+              "name": "Linjiang Huang",
+              "mark": ""
+            },
+            {
+              "name": "Hongsheng Li",
+              "mark": ""
+            },
+            {
+              "name": "Si Liu",
+              "mark": "‡"
+            }
+          ],
+          "url": "https://arxiv.org/abs/2512.05965",
+          "pdf": "https://arxiv.org/pdf/2512.05965",
+          "code": "https://github.com/appletea233/EditThinker",
+          "project": "https://appletea233.github.io/think-while-edit/",
+          "image": "images/edit-thinker.png",
+          "sources": [
+            "https://arxiv.org/abs/2512.05965",
+            "https://scholar.google.com/citations?user=PccL82sAAAAJ&hl=en",
+            "https://appletea233.github.io/think-while-edit/"
+          ],
+          "venue_provenance": "Canonical author Google Scholar; arXiv verifies bibliographic metadata",
+          "note": "",
+          "corresponding": [
+            "Si Liu"
+          ],
+          "project_lead": [
+            "Manyuan Zhang"
+          ],
+          "source_id": "2512.05965",
+          "authorship_provenance": "Manyuan Zhang is project leader; Si Liu is corresponding author (official project page).",
+          "authors_note": "",
+          "summary": "Adds an iterative critique-and-refine loop to image editors, using reinforcement learning to improve editing instructions based on feedback from generated results.",
+          "summary_source": "https://arxiv.org/abs/2512.05965",
+          "thumbnail_source": "https://appletea233.github.io/think-while-edit/"
+        },
+        {
+          "id": "paper-2511-16671",
+          "title": "Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation",
+          "year": 2026,
+          "venue": "CVPR 2026",
+          "venue_kind": "conference",
+          "group": "Visual Generation",
+          "authors": [
+            {
+              "name": "Ziyu Guo",
+              "mark": "*"
+            },
+            {
+              "name": "Renrui Zhang",
+              "mark": "*†"
+            },
+            {
+              "name": "Hongyu Li",
+              "mark": "*"
+            },
+            {
+              "name": "Manyuan Zhang",
+              "mark": "†"
+            },
+            {
+              "name": "Xinyan Chen",
+              "mark": ""
+            },
+            {
+              "name": "Sifan Wang",
+              "mark": ""
+            },
+            {
+              "name": "Yan Feng",
+              "mark": ""
+            },
+            {
+              "name": "Peng Pei",
+              "mark": ""
+            },
+            {
+              "name": "Pheng-Ann Heng",
+              "mark": ""
+            }
+          ],
+          "url": "https://arxiv.org/abs/2511.16671",
+          "pdf": "https://arxiv.org/pdf/2511.16671",
+          "code": "https://github.com/ZiyuGuo99/Thinking-while-Generating",
+          "project": "https://think-while-gen.github.io",
+          "image": "images/t-w-g.png",
+          "sources": [
+            "https://arxiv.org/abs/2511.16671",
+            "https://scholar.google.com/citations?user=PccL82sAAAAJ&hl=en",
+            "https://think-while-gen.github.io/",
+            "https://media.eventhosts.cc/Conferences/CVPR2026/CVPR_main_conf_2026_15.pdf"
+          ],
+          "venue_provenance": "Canonical Scholar, existing homepage, author project page and CVPR 2026 program.",
+          "note": "",
+          "equal_contribution": [
+            "Ziyu Guo",
+            "Renrui Zhang",
+            "Hongyu Li"
+          ],
+          "project_lead": [
+            "Renrui Zhang",
+            "Manyuan Zhang"
+          ],
+          "source_id": "2511.16671",
+          "authorship_provenance": "Ziyu Guo, Renrui Zhang, and Hongyu Li contributed equally; Renrui Zhang and Manyuan Zhang are project leads.",
+          "authors_note": "",
+          "summary": "Interleaves textual reasoning throughout image generation, guiding upcoming visual regions and reflecting on earlier outputs as the image takes shape.",
+          "summary_source": "https://arxiv.org/abs/2511.16671",
+          "thumbnail_source": "https://think-while-gen.github.io/"
+        },
+        {
+          "id": "paper-2511-20211",
+          "title": "OmniAlpha: Aligning Transparency-Aware Generation via Multi-Task Unified Reinforcement Learning",
+          "year": 2026,
+          "venue": "ACM MM 2026 · Oral",
+          "venue_kind": "conference",
+          "group": "Visual Generation",
+          "authors": [
+            {
+              "name": "Hao Yu",
+              "mark": "*"
+            },
+            {
+              "name": "Jinglin Wang",
+              "mark": "*"
+            },
+            {
+              "name": "Jiabo Zhan",
+              "mark": "*"
+            },
+            {
+              "name": "Rui Chen",
+              "mark": ""
+            },
+            {
+              "name": "Zile Wang",
+              "mark": ""
+            },
+            {
+              "name": "Huaisong Zhang",
+              "mark": ""
+            },
+            {
+              "name": "Hongyu Li",
+              "mark": ""
+            },
+            {
+              "name": "Xinrui Chen",
+              "mark": ""
+            },
+            {
+              "name": "Yongxian Wei",
+              "mark": ""
+            },
+            {
+              "name": "Chun Yuan",
+              "mark": ""
+            }
+          ],
+          "url": "https://arxiv.org/abs/2511.20211",
+          "pdf": "https://arxiv.org/pdf/2511.20211",
+          "code": "https://github.com/Longin-Yu/OmniAlpha",
+          "project": null,
+          "image": "images/omnialpha.png",
+          "sources": [
+            "https://arxiv.org/abs/2511.20211",
+            "https://scholar.google.com/citations?user=PccL82sAAAAJ&hl=en",
+            "https://longin-yu.github.io/"
+          ],
+          "venue_provenance": "Canonical Scholar plus first author Hao Yu homepage, dated August 2026.",
+          "note": "Use current arXiv v2 title and author order; initial v1 title and authors changed.",
+          "equal_contribution": [
+            "Hao Yu",
+            "Jinglin Wang",
+            "Jiabo Zhan"
+          ],
+          "source_id": "2511.20211",
+          "authorship_provenance": "Hao Yu, Jinglin Wang, and Jiabo Zhan contributed equally (author homepage).",
+          "authors_note": "",
+          "summary": "Unifies transparency-aware image generation and editing in one model, using reinforcement learning to improve fine opacity details and consistency across layers.",
+          "summary_source": "https://arxiv.org/abs/2511.20211",
+          "thumbnail_source": "https://arxiv.org/html/2511.20211v2/arch_update.png"
+        },
+        {
+          "id": "paper-2512-08294",
+          "title": "OpenSubject: Leveraging Video-Derived Identity and Diversity Priors for Subject-driven Image Generation and Manipulation",
+          "year": 2026,
+          "venue": "ECCV 2026",
+          "venue_kind": "conference",
+          "group": "Visual Generation",
+          "authors": [
+            {
+              "name": "Yexin Liu",
+              "mark": ""
+            },
+            {
+              "name": "Manyuan Zhang",
+              "mark": ""
+            },
+            {
+              "name": "Yueze Wang",
+              "mark": ""
+            },
+            {
+              "name": "Hongyu Li",
+              "mark": ""
+            },
+            {
+              "name": "Dian Zheng",
+              "mark": ""
+            },
+            {
+              "name": "Weiming Zhang",
+              "mark": ""
+            },
+            {
+              "name": "Changsheng Lu",
+              "mark": ""
+            },
+            {
+              "name": "Harry Yang",
+              "mark": ""
+            }
+          ],
+          "url": "https://arxiv.org/abs/2512.08294",
+          "pdf": "https://arxiv.org/pdf/2512.08294",
+          "code": "https://github.com/LAW1223/OpenSubject",
+          "project": null,
+          "image": "images/opensubject.png",
+          "sources": [
+            "https://arxiv.org/abs/2512.08294",
+            "https://scholar.google.com/citations?user=PccL82sAAAAJ&hl=en",
+            "https://researchportal.hkust.edu.hk/en/publications/opensubject-leveraging-video-derived-identity-and-diversity-prior/",
+            "https://doi.org/10.1007/978-3-032-37324-3_7",
+            "https://eccv.ecva.net/Conferences/2026/Dates"
+          ],
+          "venue_provenance": "Canonical Scholar and HKUST institutional publication record (ECCV 2026 proceedings).",
+          "note": "arXiv v2 has 11 authors; final HKUST proceedings record has 8 authors, omitting Xunliang Cai, Yan Feng and Peng Pei. Record authors below use final proceedings; full original arXiv authors preserved in arxiv_authors.",
+          "arxiv_authors": [
+            "Yexin Liu",
+            "Manyuan Zhang",
+            "Yueze Wang",
+            "Hongyu Li",
+            "Dian Zheng",
+            "Weiming Zhang",
+            "Changsheng Lu",
+            "Xunliang Cai",
+            "Yan Feng",
+            "Peng Pei",
+            "Harry Yang"
+          ],
+          "source_id": "2512.08294",
+          "authorship_provenance": "",
+          "authors_note": "",
+          "acceptance_month": "2026.06",
+          "acceptance_month_provenance": "Month inferred from the official ECCV 2026 final-decision schedule (June 17); the individual paper decision day is not independently verified.",
+          "summary": "Builds a 2.5-million-sample corpus from videos by matching subjects across frames and synthesizing references, supporting identity-consistent image generation and editing.",
+          "summary_source": "https://arxiv.org/abs/2512.08294",
+          "thumbnail_source": "https://arxiv.org/html/2512.08294v2/data_pipeline_v1.png"
+        },
+        {
+          "id": "paper-2605-21487",
+          "title": "Uni-Edit: Intelligent Editing Is A General Task For Unified Model Tuning",
+          "year": 2026,
+          "venue": "arXiv 2026",
+          "venue_kind": "preprint",
+          "group": "Visual Generation",
+          "authors": [
+            {
+              "name": "Dian Zheng",
+              "mark": ""
+            },
+            {
+              "name": "Manyuan Zhang",
+              "mark": ""
+            },
+            {
+              "name": "Hongyu Li",
+              "mark": ""
+            },
+            {
+              "name": "Hongbo Liu",
+              "mark": ""
+            },
+            {
+              "name": "Kai Zou",
+              "mark": ""
+            },
+            {
+              "name": "Kaituo Feng",
+              "mark": ""
+            },
+            {
+              "name": "Hongsheng Li",
+              "mark": ""
+            }
+          ],
+          "url": "https://arxiv.org/abs/2605.21487",
+          "pdf": "https://arxiv.org/pdf/2605.21487",
+          "code": "https://github.com/zhengdian1/Uni-Edit",
+          "project": "https://zhengdian1.github.io/Uni-Edit-proj/",
+          "image": "images/uni-edit.png",
+          "sources": [
+            "https://arxiv.org/abs/2605.21487",
+            "https://scholar.google.com/citations?user=PccL82sAAAAJ&hl=en"
+          ],
+          "venue_provenance": "Canonical author Google Scholar; arXiv verifies bibliographic metadata",
+          "note": "",
+          "source_id": "2605.21487",
+          "authorship_provenance": "",
+          "authors_note": "",
+          "summary": "Converts visual question answering data into reasoning-intensive editing tasks, enabling a single training task to improve image understanding, generation, and editing.",
+          "summary_source": "https://arxiv.org/abs/2605.21487",
+          "thumbnail_source": "https://arxiv.org/html/2605.21487v2/teaser.png"
+        },
+        {
+          "id": "paper-2603-28767",
+          "title": "Gen-Searcher: Reinforcing Agentic Search for Image Generation",
+          "year": 2026,
+          "venue": "NeurIPS 2026",
+          "venue_kind": "conference",
+          "group": "Visual Generation",
+          "authors": [
+            {
+              "name": "Kaituo Feng",
+              "mark": ""
+            },
+            {
+              "name": "Manyuan Zhang",
+              "mark": ""
+            },
+            {
+              "name": "Shuang Chen",
+              "mark": ""
+            },
+            {
+              "name": "Yunlong Lin",
+              "mark": ""
+            },
+            {
+              "name": "Kaixuan Fan",
+              "mark": ""
+            },
+            {
+              "name": "Yilei Jiang",
+              "mark": ""
+            },
+            {
+              "name": "Hongyu Li",
+              "mark": ""
+            },
+            {
+              "name": "Dian Zheng",
+              "mark": ""
+            },
+            {
+              "name": "Chenyang Wang",
+              "mark": ""
+            },
+            {
+              "name": "Xiangyu Yue",
+              "mark": ""
+            }
+          ],
+          "url": "https://arxiv.org/abs/2603.28767",
+          "pdf": "https://arxiv.org/pdf/2603.28767",
+          "code": "https://github.com/tulerfeng/Gen-Searcher",
+          "project": "https://gen-searcher.vercel.app",
+          "image": "images/gen-searcher.png",
+          "sources": [
+            "https://arxiv.org/abs/2603.28767",
+            "https://scholar.google.com/citations?user=PccL82sAAAAJ&hl=en",
+            "https://neurips.cc/Conferences/2026/Dates",
+            "https://neurips.cc/virtual/2026/poster/153355",
+            "https://manyuan97.github.io/",
+            "https://xyue.io/publications.html"
+          ],
+          "venue_provenance": "User confirmed acceptance on 2026-10-10; independently corroborated by the official NeurIPS 2026 paper directory and coauthor homepages.",
+          "note": "",
+          "source_id": "2603.28767",
+          "authorship_provenance": "",
+          "authors_note": "",
+          "acceptance_month": "2026.09",
+          "acceptance_month_provenance": "September supported by project lead Manyuan Zhang’s September NeurIPS acceptance news and the official September 24 notification schedule.",
+          "summary": "Trains an image-generation agent to retrieve knowledge and reference images through multi-step search, using text and image rewards to improve factual grounding.",
+          "summary_source": "https://arxiv.org/abs/2603.28767",
+          "thumbnail_source": "https://arxiv.org/html/2603.28767v3/teaser2.png"
+        },
+        {
+          "id": "paper-2511-22663",
+          "title": "AIA: Rethinking Architecture Decoupling Strategy In Unified Multimodal Model",
+          "year": 2025,
+          "venue": "arXiv 2025",
+          "venue_kind": "preprint",
+          "group": "Visual Generation",
+          "authors": [
+            {
+              "name": "Dian Zheng",
+              "mark": ""
+            },
+            {
+              "name": "Manyuan Zhang",
+              "mark": ""
+            },
+            {
+              "name": "Hongyu Li",
+              "mark": ""
+            },
+            {
+              "name": "Kai Zou",
+              "mark": ""
+            },
+            {
+              "name": "Hongbo Liu",
+              "mark": ""
+            },
+            {
+              "name": "Ziyu Guo",
+              "mark": ""
+            },
+            {
+              "name": "Kaituo Feng",
+              "mark": ""
+            },
+            {
+              "name": "Yexin Liu",
+              "mark": ""
+            },
+            {
+              "name": "Ying Luo",
+              "mark": ""
+            },
+            {
+              "name": "Hongsheng Li",
+              "mark": ""
+            }
+          ],
+          "url": "https://arxiv.org/abs/2511.22663",
+          "pdf": "https://arxiv.org/pdf/2511.22663",
+          "code": "https://github.com/zhengdian1/AIA",
+          "project": "https://zhengdian1.github.io/AIA-project/",
+          "image": "images/aia.png",
+          "sources": [
+            "https://arxiv.org/abs/2511.22663",
+            "https://scholar.google.com/citations?user=PccL82sAAAAJ&hl=en"
+          ],
+          "venue_provenance": "Canonical author Google Scholar; arXiv verifies bibliographic metadata",
+          "note": "Deduplicate Scholar entries: Architecture Decoupling Is Not All You Need and AIA are the same arXiv 2511.22663. Use current v5 title and 10-author list.",
+          "source_id": "2511.22663",
+          "authorship_provenance": "",
+          "authors_note": "",
+          "summary": "Aligns attention between image and text with patterns learned from specialized models, reducing conflicts between visual understanding and generation in unified models.",
+          "summary_source": "https://arxiv.org/abs/2511.22663",
+          "thumbnail_source": "https://arxiv.org/html/2511.22663v5/moti2.png"
+        }
+      ]
+    },
+    {
+      "id": "embodied-ai",
+      "title": "Embodied AI",
+      "papers": [
+        {
+          "id": "paper-aerialvla-aaai-2026",
+          "title": "AerialVLA: A Vision-Language-Action Model for Aerial Navigation with Online Dialogue",
+          "year": 2026,
+          "venue": "AAAI 2026",
+          "venue_kind": "conference",
+          "group": "Embodied AI",
+          "authors": [
+            {
+              "name": "Jinyu Chen",
+              "mark": "*"
+            },
+            {
+              "name": "Hongyu Li",
+              "mark": "*"
+            },
+            {
+              "name": "Zongheng Tang",
+              "mark": ""
+            },
+            {
+              "name": "Xiaoduo Li",
+              "mark": ""
+            },
+            {
+              "name": "Wenjun Wu",
+              "mark": ""
+            },
+            {
+              "name": "Si Liu",
+              "mark": ""
+            }
+          ],
+          "equal_contribution": [
+            "Jinyu Chen",
+            "Hongyu Li"
+          ],
+          "url": "https://ojs.aaai.org/index.php/AAAI/article/view/38878",
+          "pdf": "https://ojs.aaai.org/index.php/AAAI/article/view/38878/42840",
+          "code": "https://github.com/chenjinyubuaa/AerialVLA",
+          "project": null,
+          "image": "images/aerialvla.png",
+          "sources": [
+            "https://ojs.aaai.org/index.php/AAAI/article/view/38878",
+            "https://github.com/chenjinyubuaa/AerialVLA",
+            "https://scholar.google.com/citations?user=PccL82sAAAAJ&hl=en",
+            "https://ojs.aaai.org/index.php/AAAI/article/view/38878/42840"
+          ],
+          "venue_provenance": "Official AAAI proceedings corroborate title, author order and affiliation; co-first from canonical Scholar.",
+          "note": "Do not confuse with unrelated XuPeng23/AeroVLA (previously also called AerialVLA).",
+          "source_id": "aerialvla-aaai-2026",
+          "authorship_provenance": "Jinyu Chen and Hongyu Li contributed equally (canonical Scholar).",
+          "authors_note": "",
+          "summary": "Unifies dialogue understanding, navigation actions, and proactive questioning through progress estimation, spatial-temporal history fusion, and online task-driven data augmentation.",
+          "summary_source": "https://ojs.aaai.org/index.php/AAAI/article/view/38878",
+          "thumbnail_source": "https://ojs.aaai.org/index.php/AAAI/article/view/38878/42840",
+          "thumbnail_provenance": "Figure 2 (model architecture), extracted from page 3 of the official AAAI proceedings PDF; crop excludes caption and body text. Correct Jinyu Chen / Hongyu Li AerialVLA, not the unrelated AeroVLA."
+        },
+        {
+          "id": "paper-2607-11529",
+          "title": "Parse, Search, and Confirmation: Training-Free Aerial Vision-and-Dialog Navigation with Chain-of-Thought Reasoning and Structured Spatial Memory",
+          "year": 2026,
+          "venue": "CVPR 2026",
+          "venue_kind": "conference",
+          "group": "Embodied AI",
+          "authors": [
+            {
+              "name": "Yu Qi",
+              "mark": ""
+            },
+            {
+              "name": "Hongyu Li",
+              "mark": ""
+            },
+            {
+              "name": "Shaofei Huang",
+              "mark": ""
+            },
+            {
+              "name": "Tianrui Hui",
+              "mark": ""
+            },
+            {
+              "name": "Yaxiong Wang",
+              "mark": ""
+            },
+            {
+              "name": "Lechao Cheng",
+              "mark": ""
+            },
+            {
+              "name": "Zhun Zhong",
+              "mark": ""
+            },
+            {
+              "name": "Si Liu",
+              "mark": ""
+            },
+            {
+              "name": "Meng Wang",
+              "mark": ""
+            }
+          ],
+          "url": "https://arxiv.org/abs/2607.11529",
+          "pdf": "https://arxiv.org/pdf/2607.11529",
+          "code": "https://github.com/QY6616/PSC-AVDN",
+          "project": null,
+          "image": "images/psc-avdn.png",
+          "sources": [
+            "https://arxiv.org/abs/2607.11529",
+            "https://scholar.google.com/citations?user=PccL82sAAAAJ&hl=en",
+            "https://openaccess.thecvf.com/content/CVPR2026/supplemental/Qi_Parse_Search_and_CVPR_2026_supplemental.pdf"
+          ],
+          "venue_provenance": "CVF main conference program and supplemental PDF explicitly list title/authors; canonical Scholar.",
+          "note": "",
+          "source_id": "2607.11529",
+          "authorship_provenance": "",
+          "authors_note": "",
+          "summary": "Enables training-free aerial navigation with a parse-search-confirm reasoning pipeline and structured spatial memory that resolves directional ambiguity and maintains long-horizon spatial context.",
+          "summary_source": "https://arxiv.org/abs/2607.11529",
+          "thumbnail_source": "https://arxiv.org/html/2607.11529v1/Fig_2.png",
+          "thumbnail_provenance": "Official arXiv Figure 2, complete architecture overview, downloaded unchanged and visually inspected."
+        },
+        {
+          "id": "paper-2601-21667",
+          "title": "From Instruction to Event: Sound-Triggered Mobile Manipulation",
+          "year": 2026,
+          "venue": "arXiv 2026",
+          "venue_kind": "preprint",
+          "group": "Embodied AI",
+          "authors": [
+            {
+              "name": "Hao Ju",
+              "mark": ""
+            },
+            {
+              "name": "Shaofei Huang",
+              "mark": ""
+            },
+            {
+              "name": "Hongyu Li",
+              "mark": ""
+            },
+            {
+              "name": "Zihan Ding",
+              "mark": ""
+            },
+            {
+              "name": "Si Liu",
+              "mark": ""
+            },
+            {
+              "name": "Meng Wang",
+              "mark": ""
+            },
+            {
+              "name": "Zhedong Zheng",
+              "mark": ""
+            }
+          ],
+          "url": "https://arxiv.org/abs/2601.21667",
+          "pdf": "https://arxiv.org/pdf/2601.21667",
+          "code": null,
+          "project": null,
+          "image": "images/stmm.png",
+          "sources": [
+            "https://arxiv.org/abs/2601.21667",
+            "https://scholar.google.com/citations?user=PccL82sAAAAJ&hl=en"
+          ],
+          "venue_provenance": "Canonical author Google Scholar; arXiv verifies bibliographic metadata",
+          "note": "",
+          "source_id": "2601.21667",
+          "authorship_provenance": "",
+          "authors_note": "",
+          "summary": "Introduces sound-triggered mobile manipulation and Habitat-Echo, pairing an audio-visual task planner with skill policies to respond to environmental events without explicit instructions.",
+          "summary_source": "https://arxiv.org/abs/2601.21667",
+          "thumbnail_source": "https://arxiv.org/html/2601.21667v3/fig3_method.png",
+          "thumbnail_provenance": "Official arXiv v3 Figure 4, hierarchical baseline overview with Habitat-Echo, planner, policies and skill library; downloaded unchanged and visually inspected."
+        },
+        {
+          "id": "paper-point-cluster-iclr-2025",
+          "title": "Point Cluster: A Compact Message Unit for Communication-Efficient Collaborative Perception",
+          "year": 2025,
+          "venue": "ICLR 2025",
+          "venue_kind": "conference",
+          "group": "Embodied AI",
+          "authors": [
+            {
+              "name": "Zihan Ding",
+              "mark": ""
+            },
+            {
+              "name": "Jiahui Fu",
+              "mark": ""
+            },
+            {
+              "name": "Si Liu",
+              "mark": "‡"
+            },
+            {
+              "name": "Hongyu Li",
+              "mark": ""
+            },
+            {
+              "name": "Siheng Chen",
+              "mark": ""
+            },
+            {
+              "name": "Hongsheng Li",
+              "mark": ""
+            },
+            {
+              "name": "Shifeng Zhang",
+              "mark": ""
+            },
+            {
+              "name": "Xu Zhou",
+              "mark": ""
+            }
+          ],
+          "corresponding": [
+            "Si Liu"
+          ],
+          "url": "https://openreview.net/forum?id=54XlM8Clkg",
+          "pdf": "https://openreview.net/pdf?id=54XlM8Clkg",
+          "code": null,
+          "project": null,
+          "image": "images/point-cluster.png",
+          "sources": [
+            "https://openreview.net/pdf/db1c96870647a0926f9ddac5a6b1e1d2ffbcfb4a.pdf",
+            "https://scholar.google.com/citations?user=PccL82sAAAAJ&hl=en"
+          ],
+          "venue_provenance": "Official published ICLR 2025 PDF and canonical Scholar.",
+          "note": "OpenReview live page can trigger browser challenge; cached published PDF search verified bibliographic data.",
+          "source_id": "point-cluster-iclr-2025",
+          "authorship_provenance": "Si Liu is corresponding author (OpenReview published PDF).",
+          "authors_note": "",
+          "summary": "Encodes objects as sparse point clusters with decoupled geometry and semantics, enabling communication-efficient collaborative perception through selective sampling and set-based message aggregation.",
+          "summary_source": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/07b446bc8bbadb47793711e4cda2f43e-Abstract-Conference.html",
+          "thumbnail_source": "https://proceedings.iclr.cc/paper_files/paper/2025/file/07b446bc8bbadb47793711e4cda2f43e-Paper-Conference.pdf",
+          "thumbnail_provenance": "Figure 2 (CPPC system overview), extracted from page 4 of the official ICLR 2025 proceedings PDF. Crop excludes page header, caption and body text."
+        }
+      ]
+    },
+    {
+      "id": "segmentation-grounding",
+      "title": "Visual Segmentation & Grounding",
+      "papers": [
+        {
+          "id": "paper-2506-23623",
+          "title": "Revisiting Audio-Visual Segmentation with Vision-Centric Transformer",
+          "year": 2025,
+          "venue": "CVPR 2025",
+          "venue_kind": "conference",
+          "group": "Visual Segmentation & Grounding",
+          "authors": [
+            {
+              "name": "Shaofei Huang",
+              "mark": ""
+            },
+            {
+              "name": "Rui Ling",
+              "mark": ""
+            },
+            {
+              "name": "Tianrui Hui",
+              "mark": ""
+            },
+            {
+              "name": "Hongyu Li",
+              "mark": ""
+            },
+            {
+              "name": "Xu Zhou",
+              "mark": ""
+            },
+            {
+              "name": "Shifeng Zhang",
+              "mark": ""
+            },
+            {
+              "name": "Si Liu",
+              "mark": ""
+            },
+            {
+              "name": "Richang Hong",
+              "mark": ""
+            },
+            {
+              "name": "Meng Wang",
+              "mark": ""
+            }
+          ],
+          "url": "https://arxiv.org/abs/2506.23623",
+          "pdf": "https://arxiv.org/pdf/2506.23623",
+          "code": "https://github.com/spyflying/VCT_AVS",
+          "project": null,
+          "image": "images/vct.png",
+          "sources": [
+            "https://arxiv.org/abs/2506.23623",
+            "https://scholar.google.com/citations?user=PccL82sAAAAJ&hl=en",
+            "https://openaccess.thecvf.com/content/CVPR2025/html/Huang_Revisiting_Audio-Visual_Segmentation_with_Vision-Centric_Transformer_CVPR_2025_paper.html"
+          ],
+          "venue_provenance": "CVF proceedings and canonical Scholar.",
+          "note": "",
+          "source_id": "2506.23623",
+          "authorship_provenance": "",
+          "authors_note": "",
+          "summary": "Uses vision-derived, audio-prompted queries to distinguish sound-producing objects in mixed audio while preserving the visual detail needed for precise segmentation.",
+          "summary_source": "https://arxiv.org/abs/2506.23623"
+        },
+        {
+          "id": "paper-2408-15876",
+          "title": "Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation",
+          "year": 2025,
+          "venue": "AAAI 2025",
+          "venue_kind": "conference",
+          "group": "Visual Segmentation & Grounding",
+          "authors": [
+            {
+              "name": "Shaofei Huang",
+              "mark": "*"
+            },
+            {
+              "name": "Rui Ling",
+              "mark": "*"
+            },
+            {
+              "name": "Hongyu Li",
+              "mark": "*"
+            },
+            {
+              "name": "Tianrui Hui",
+              "mark": ""
+            },
+            {
+              "name": "Zongheng Tang",
+              "mark": ""
+            },
+            {
+              "name": "Xiaoming Wei",
+              "mark": ""
+            },
+            {
+              "name": "Jizhong Han",
+              "mark": ""
+            },
+            {
+              "name": "Si Liu",
+              "mark": ""
+            }
+          ],
+          "url": "https://arxiv.org/abs/2408.15876",
+          "pdf": "https://arxiv.org/pdf/2408.15876",
+          "code": "https://github.com/appletea233/AL-Ref-SAM2",
+          "project": null,
+          "image": "images/al_ref_sam2.png",
+          "sources": [
+            "https://arxiv.org/abs/2408.15876",
+            "https://scholar.google.com/citations?user=PccL82sAAAAJ&hl=en"
+          ],
+          "venue_provenance": "Canonical Scholar and existing homepage; arXiv verifies exact title/authors.",
+          "note": "",
+          "short_name": "AL-Ref-SAM2",
+          "equal_contribution": [
+            "Shaofei Huang",
+            "Rui Ling",
+            "Hongyu Li"
+          ],
+          "source_id": "2408.15876",
+          "authorship_provenance": "Shaofei Huang, Rui Ling, and Hongyu Li contributed equally (canonical Scholar and existing homepage).",
+          "authors_note": "",
+          "summary": "Combines GPT-guided pivot selection with SAM 2 and converts audio into language references for training-free audio- and language-referenced video object segmentation.",
+          "summary_source": "https://arxiv.org/abs/2408.15876"
+        },
+        {
+          "id": "paper-2409-08251",
+          "title": "Dynamic Prompting of Frozen Text-to-Image Diffusion Models for Panoptic Narrative Grounding",
+          "year": 2024,
+          "venue": "ACM MM 2024",
+          "venue_kind": "conference",
+          "group": "Visual Segmentation & Grounding",
+          "authors": [
+            {
+              "name": "Hongyu Li",
+              "mark": "*"
+            },
+            {
+              "name": "Tianrui Hui",
+              "mark": "*"
+            },
+            {
+              "name": "Zihan Ding",
+              "mark": ""
+            },
+            {
+              "name": "Jing Zhang",
+              "mark": ""
+            },
+            {
+              "name": "Bin Ma",
+              "mark": ""
+            },
+            {
+              "name": "Xiaoming Wei",
+              "mark": ""
+            },
+            {
+              "name": "Jizhong Han",
+              "mark": ""
+            },
+            {
+              "name": "Si Liu",
+              "mark": "‡"
+            }
+          ],
+          "url": "https://arxiv.org/abs/2409.08251",
+          "pdf": "https://arxiv.org/pdf/2409.08251",
+          "code": null,
+          "project": null,
+          "image": "images/dynamic_prompt.png",
+          "sources": [
+            "https://arxiv.org/abs/2409.08251",
+            "https://scholar.google.com/citations?user=PccL82sAAAAJ&hl=en",
+            "https://colalab.net/media/paper/Dynamic_Prompting_of_Frozen_Text-to-Image_Diffusion_Models_for_Panopic_Narrative_Grounding.pdf"
+          ],
+          "venue_provenance": "Published PDF on advisor lab site contains ACM MM 2024 reference and DOI 10.1145/3664647.3686836; canonical Scholar.",
+          "note": "",
+          "short_name": "DP-Adapter",
+          "equal_contribution": [
+            "Hongyu Li",
+            "Tianrui Hui"
+          ],
+          "corresponding": [
+            "Si Liu"
+          ],
+          "source_id": "2409.08251",
+          "authorship_provenance": "Hongyu Li and Tianrui Hui contributed equally; Si Liu is corresponding author (published PDF).",
+          "authors_note": "",
+          "summary": "Dynamically adapts phrase prompts within a frozen diffusion model and fuses multi-level visual-language features to ground narrative descriptions with panoptic segmentation.",
+          "summary_source": "https://arxiv.org/abs/2409.08251"
+        }
+      ]
+    }
+  ]
+}

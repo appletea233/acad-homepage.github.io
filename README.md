@@ -1,72 +1,43 @@
+# Hongyu Li — Academic Homepage
 
-<h1 align="center">
-AcadHomepage
-</h1>
+A Jekyll academic homepage hosted on [GitHub Pages](https://appletea233.github.io/acad-homepage.github.io/). The compact, topic-based publication layout is inspired by [Ziyu Guo's homepage](https://ziyuguo99.github.io/) and retains the original [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io) / Minimal Mistakes foundation and license.
 
-<div align="center">
+## Local preview
 
-[![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/issues/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  | [中文文档](./docs/README-zh.md) 
-</div>
+From this repository, run:
 
-<p align="center">A Modern and Responsive Academic Personal Homepage</p>
+```sh
+bash run_server.sh
+```
 
-<p align="center">
-    <br>
-    <img src="docs/screenshot.png" width="100%"/>
-    <br>
-</p>
+Open http://127.0.0.1:4000/. The launcher uses the workspace-local Ruby/Jekyll runtime when available. On another machine, install Ruby and the locked dependencies with `bundle install` first. The preview uses an empty `baseurl`; the production setting is unchanged.
 
-Some examples:
-- [Demo Page](https://rayeren.github.io/acad-homepage.github.io/)
-- [Personal Homepage of the author](https://rayeren.github.io/)
+## Editing
 
-## Key Features
-- **Automatically update google scholar citations**: using the google scholar crawler and github action, this REPO can update the author citations and publication citations automatically.
-- **Support Google analytics**: you can trace the traffics of your homepage by easy configuration.
-- **Responsive**: this homepage automatically adjust for different screen sizes and viewports.
-- **Beautiful and Simple Design**: this homepage is beautiful and simple, which is very suitable for academic personal homepage.
-- **SEO**: search Engine Optimization (SEO) helps search engines find the information you publish on your homepage easily, then rank it against similar websites.
+- `_config.yml`: profile, Google Scholar, email, and deployment URL.
+- `_pages/about.md`: introduction, news, education, and academic service.
+- `_data/publications.json`: the 22 paper records, grouped by research topic. Includes source URLs and authorship/venue provenance, which are not rendered on the page.
+- `_includes/publications.html`: compact paper rows and accessible native figure toggles.
+- `_sass/_homepage.scss`: responsive layout and styling.
+- `images/`: portrait, publication figures, and icons.
 
-## Quick Start
+For each publication, use `authors` as objects with `name` and optional `mark` (`*` equal contribution, `†` project lead, `‡` corresponding author). An optional `authors_display` supports long team-authored reports. Use `summary` for a short English sentence describing the method and contribution, displayed beneath the authors. Keep its primary source in `summary_source`. Only add `pdf`, `code`, `project`, and `image` when the resource exists; record the original figure URL in `thumbnail_source`.
 
-1. Fork this REPO and rename to `USERNAME.github.io`, where `USERNAME` is your github USERNAME.
-1. Configure the google scholar citation crawler:
-    1. Find your google scholar ID in the url of your google scholar page (e.g., https://scholar.google.com/citations?user=SCHOLAR_ID), where `SCHOLAR_ID` is your google scholar ID.
-    1. Set GOOGLE_SCHOLAR_ID variable to your google scholar ID in `Settings -> Secrets -> Actions -> New repository secret` of the REPO website with `name=GOOGLE_SCHOLAR_ID` and `value=SCHOLAR_ID`.
-    1. Click the `Action` of the REPO website and enable the workflows by clicking *"I understand my workflows, go ahead and enable them"*. This github action will generate google scholar citation stats data `gs_data.json` in `google-scholar-stats` branch of your REPO. When you update your main branch, this action will be triggered. This action will also be trigger 08:00 UTC everyday.
-1. Generate favicon using [favicon-generator](https://redketchup.io/favicon-generator) and download all generated files to `REPO/images`.
-1. Modify the configuration of your homepage `_config.yml`:
-    1. `title`: the title of your homepage
-    1. `description`: the description of your homepage
-    1. `repository`: USER_NAME/REPO_NAME  
-    1. `google_analytics_id` (optional): google analytics ID
-    1. SEO Related keys (optional): get these keys from search engine consoles (e.g. Google, Bing and Baidu) and paste here.
-    1. `author`: the author information of this homepage, including some other websites, emails, city and univeristy.
-    1. More configuration details are described in the comments.
-1. Add your homepage content in `_pages/about.md`.
-    1. You can use html+markdown syntax just same as jekyll.
-    1. You can use a `<span>` tag with class `show_paper_citations` and attribute `data` to display the citations of your paper. Set the data to the google scholar paper ID. For
-        ```html
-        <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
-        ``` 
-        > Q: How to get the google scholar paper ID?   
-        > A: Enter your google scholar homepage and click the paper name. Then you can see the paper ID from `citation_for_view=XXXX`, where `XXXX` is the required paper ID.
-1. Your page will be published at `https://USERNAME.github.io`.
+## Content update — 2026-10-10
 
-## Debug Locally
+Checked against [Hongyu Li's Google Scholar](https://scholar.google.com/citations?user=PccL82sAAAAJ&hl=en), the original website, official papers, proceedings, and author project pages. Added the user-supplied [OneSearch-VL release](https://arxiv.org/abs/2610.12419), dated 2026-10-08. The two Scholar entries for AIA share one arXiv ID and are represented once.
 
-1. Clone your REPO to local using `git clone`.
-1. Install Jekyll building environment, including `Ruby`, `RubyGems`, `GCC` and `Make` following [the installation guide](https://jekyllrb.com/docs/installation/#requirements).
-1. Run `bash run_server.sh` to start Jekyll livereload server.
-1. Open http://127.0.0.1:4000 in your browser.
-1. If you change the source code of the website, the livereload server will automatically refresh.
-1. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command.
+Newly listed acceptance statuses include Video-MME-Logical (Findings of EMNLP 2026), OmniAlpha (ACM MM 2026, Oral), OpenSubject (ECCV 2026), and Gen-Searcher (NeurIPS 2026). OpenSubject uses the final proceedings author list. Video-MME-Logical release news is dated June 2026, matching its June 26 arXiv release, and briefly describes visual coding for controllable video generation to support both training and benchmarking temporal-logical reasoning. OpenSubject acceptance news uses the official June conference notification month, not an independently verified individual decision day. Gen-Searcher’s September news is supported by the project lead’s dated announcement and the official NeurIPS schedule. Other dated news follows sources or the existing homepage. The CVPR 2026 aggregate count (3 Main, 1 Findings) was confirmed by the author. OneThinker release news is dated December 2025, matching its initial arXiv release. LLaVA-ST code, model, and ST-Align data/benchmark release news follows the official repository’s July 5, 2025 announcement. All news entries remain expanded. Biography, education, and service retain the existing author's information; the time-sensitive “second-year” description was removed.
 
-# Acknowledges
+Every paper includes a concise contribution summary and a figure available through “Show Figure.” The OneSearch-VL figure is the first data-engine diagram from the [official arXiv HTML](https://arxiv.org/html/2610.12419v1/pipeline-data.png); the Video-MME-Logical overview is from its [official project page](https://mrakas.github.io/video-mme-logical/). Additional figures come from official papers, repositories, or project pages, with sources recorded in the publication data. Existing paper images and portrait were retained. Conference and workshop labels use purple, including NeurIPS@NextVid 2025 Oral; technical reports use blue. No citation counts are fabricated or fetched on page load.
 
-- AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
-- AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
-- AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
+## GitHub Pages
+
+The production configuration remains:
+
+```yaml
+url: "https://appletea233.github.io"
+baseurl: "/acad-homepage.github.io"
+```
+
+Build with `bundle exec jekyll build`. CSS, images, and canonical links use Jekyll URL filters so they also work at the repository subpath. Deploy through the repository's existing GitHub Pages configuration after reviewing and pushing the changes.

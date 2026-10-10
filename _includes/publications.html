@@ -1,0 +1,19 @@
+{% for group in site.data.publications.groups %}
+<section class="publication-group" aria-labelledby="{{ group.id }}">
+  <h2 id="{{ group.id }}">{{ group.title }}</h2>
+  {% for paper in group.papers %}
+  <article class="publication" id="{{ paper.id }}">
+    <h3 class="publication-title"><span class="venue-tag venue-tag--{{ paper.venue_kind }}">{{ paper.venue }}</span> <a href="{{ paper.url }}">{{ paper.title }}</a></h3>
+    <p class="publication-authors">{% if paper.authors_display %}{{ paper.authors_display | replace: "Hongyu Li", "<strong>Hongyu Li</strong>" }}{% else %}{% for author in paper.authors %}{% if author.name == "Hongyu Li" %}<strong>{{ author.name }}</strong>{% else %}{{ author.name }}{% endif %}{% if author.mark %}<sup>{{ author.mark }}</sup>{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}.</p>
+    {% if paper.authors_note %}<p class="publication-note">{{ paper.authors_note }}</p>{% endif %}
+    {% if paper.summary %}<p class="publication-summary">{{ paper.summary | escape }}</p>{% endif %}
+    <div class="publication-resources">
+      {% if paper.pdf %}<a href="{{ paper.pdf }}" aria-label="PDF: {{ paper.title | escape }}">[PDF]</a>{% endif %}
+      {% if paper.code %}<a href="{{ paper.code }}" aria-label="Code: {{ paper.title | escape }}">[Code]</a>{% endif %}
+      {% if paper.project %}<a href="{{ paper.project }}" aria-label="Project page: {{ paper.title | escape }}">[Project]</a>{% endif %}
+      {% if paper.image %}<details class="publication-figure"><summary><span class="figure-show">Show Figure</span><span class="figure-hide">Hide Figure</span><span class="sr-only">: {{ paper.title }}</span></summary><figure><img src="{{ paper.image | relative_url }}" alt="Overview of {{ paper.title | escape }}" loading="lazy"><figcaption>{{ paper.title }}</figcaption></figure></details>{% endif %}
+    </div>
+  </article>
+  {% endfor %}
+</section>
+{% endfor %}

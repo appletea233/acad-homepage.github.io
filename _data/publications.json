@@ -4,7 +4,7 @@
   "groups": [
     {
       "id": "multimodal-reasoning",
-      "title": "Multimodal Reasoning & Understanding",
+      "title": "Multimodal Understanding, Reasoning & Agentic Reasoning",
       "papers": [
         {
           "id": "paper-2610-12419",
@@ -12,7 +12,7 @@
           "year": 2026,
           "venue": "Tech Report",
           "venue_kind": "report",
-          "group": "Multimodal Reasoning & Understanding",
+          "group": "Multimodal Understanding, Reasoning & Agentic Reasoning",
           "authors": [
             {
               "name": "Hongyu Li",
@@ -104,7 +104,7 @@
           "year": 2026,
           "venue": "EMNLP 2026",
           "venue_kind": "conference",
-          "group": "Multimodal Reasoning & Understanding",
+          "group": "Multimodal Understanding, Reasoning & Agentic Reasoning",
           "authors": [
             {
               "name": "Hohin Kwan",
@@ -179,7 +179,7 @@
           "year": 2025,
           "venue": "NeurIPS@NextVid 2025 Oral",
           "venue_kind": "workshop",
-          "group": "Multimodal Reasoning & Understanding",
+          "group": "Multimodal Understanding, Reasoning & Agentic Reasoning",
           "authors": [
             {
               "name": "Hongyu Li",
@@ -246,7 +246,7 @@
           "year": 2025,
           "venue": "CVPR 2025",
           "venue_kind": "conference",
-          "group": "Multimodal Reasoning & Understanding",
+          "group": "Multimodal Understanding, Reasoning & Agentic Reasoning",
           "authors": [
             {
               "name": "Hongyu Li",
@@ -314,7 +314,7 @@
           "year": 2026,
           "venue": "CVPR 2026",
           "venue_kind": "conference",
-          "group": "Multimodal Reasoning & Understanding",
+          "group": "Multimodal Understanding, Reasoning & Agentic Reasoning",
           "authors": [
             {
               "name": "Kaituo Feng",
@@ -397,7 +397,7 @@
           "year": 2026,
           "venue": "Tech Report",
           "venue_kind": "report",
-          "group": "Multimodal Reasoning & Understanding",
+          "group": "Multimodal Understanding, Reasoning & Agentic Reasoning",
           "authors": [
             {
               "name": "Meituan LongCat Team",
@@ -781,7 +781,7 @@
           "year": 2025,
           "venue": "Tech Report",
           "venue_kind": "report",
-          "group": "Multimodal Reasoning & Understanding",
+          "group": "Multimodal Understanding, Reasoning & Agentic Reasoning",
           "authors": [
             {
               "name": "Zhifei Xie",

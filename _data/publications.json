@@ -95,7 +95,7 @@
           "source_id": "2610.12419",
           "authorship_provenance": "Manyuan Zhang is project leader; Si Liu is corresponding author (verified original PDF page 1).",
           "authors_note": "",
-          "summary": "Unifies deep research across single images, multiple images, and videos through visually grounded evidence graphs and evidence-aware reinforcement learning.",
+          "summary": "Unifies single-image, multi-image, and video deep research in one agent.",
           "summary_source": "https://arxiv.org/abs/2610.12419"
         },
         {
@@ -257,7 +257,7 @@
           "source_id": "2512.05965",
           "authorship_provenance": "Manyuan Zhang is project leader; Si Liu is corresponding author (official project page).",
           "authors_note": "",
-          "summary": "Adds an iterative critique-and-refine loop to image editors, using reinforcement learning to improve editing instructions based on feedback from generated results.",
+          "summary": "Equips image editors with iterative reasoning and self-refinement for stronger instruction following.",
           "summary_source": "https://arxiv.org/abs/2512.05965",
           "thumbnail_source": "https://appletea233.github.io/think-while-edit/"
         }
@@ -406,7 +406,7 @@
           "source_id": "2506.01908",
           "authorship_provenance": "Hongyu Li, Songhao Han, and Yue Liao contributed equally; Yue Liao is project lead; Si Liu is corresponding author (official workshop PDF).",
           "authors_note": "",
-          "summary": "Combines semantic and temporal rewards with variance-aware data selection to improve video reasoning through data-efficient reinforcement learning.",
+          "summary": "Advances video reasoning through data-efficient reinforcement learning across eight video understanding tasks.",
           "summary_source": "https://arxiv.org/abs/2506.01908"
         },
         {
@@ -474,7 +474,7 @@
           "published_date": "2025-01-14",
           "release_date": "2025-07-05",
           "release_provenance": "Official LLaVA-ST repository News records code, model, benchmark, and dataset release on 2025-07-05.",
-          "summary": "Aligns coordinate tokens with visual features and preserves spatial-temporal detail during compression, enabling fine-grained video grounding with the ST-Align dataset and benchmark.",
+          "summary": "Unifies fine-grained spatial and temporal localization for multimodal video understanding.",
           "summary_source": "https://arxiv.org/abs/2501.08282"
         },
         {
@@ -557,7 +557,7 @@
           "authorship_provenance": "",
           "authors_note": "",
           "published_date": "2025-12-02",
-          "summary": "Unifies reasoning across ten image and video tasks through multi-task reinforcement learning, with evaluation on 31 benchmarks.",
+          "summary": "One reasoning model for ten image and video tasks, evaluated on 31 benchmarks.",
           "summary_source": "https://arxiv.org/abs/2512.03043"
         },
         {
@@ -940,7 +940,7 @@
           "source_id": "2603.27538",
           "authorship_provenance": "",
           "authors_note": "",
-          "summary": "Represents text, images, and audio as discrete tokens in a shared autoregressive framework, unifying multimodal understanding and generation with native-resolution visual tokenization.",
+          "summary": "Unifies text, vision, and audio understanding and generation through a shared discrete-token framework.",
           "summary_source": "https://arxiv.org/abs/2603.27538",
           "thumbnail_source": "https://arxiv.org/html/2603.27538v1/Overview.png"
         },
@@ -1007,7 +1007,7 @@
           "source_id": "2508.15827",
           "authorship_provenance": "",
           "authors_note": "",
-          "summary": "Interleaves silent reasoning tokens with spoken response tokens in a hierarchical Thinker-Talker architecture, enabling structured reasoning during fluent, low-latency speech generation.",
+          "summary": "Enables speech models to reason while speaking, combining internal reasoning with continuous speech generation.",
           "summary_source": "https://arxiv.org/abs/2508.15827",
           "thumbnail_source": "https://arxiv.org/html/2508.15827v2/figure2.png"
         }
@@ -1095,7 +1095,7 @@
           "source_id": "2603.19206",
           "authorship_provenance": "Yue Gong, Hongyu Li, and Shanyuan Liu contributed equally; Dawei Leng and Lijun Zhang are corresponding authors (arXiv HTML).",
           "authors_note": "",
-          "summary": "Adapts pretrained visual features into compact image tokens while preserving semantic structure and reconstruction detail, improving both image generation and editing.",
+          "summary": "A visual tokenizer that strengthens both image generation and editing while preserving reconstruction fidelity.",
           "summary_source": "https://arxiv.org/abs/2603.19206",
           "thumbnail_source": "https://arxiv.org/html/2603.19206v1/pipeline.png"
         },
@@ -1169,7 +1169,7 @@
           "source_id": "2511.16671",
           "authorship_provenance": "Ziyu Guo, Renrui Zhang, and Hongyu Li contributed equally; Renrui Zhang and Manyuan Zhang are project leads.",
           "authors_note": "",
-          "summary": "Interleaves textual reasoning throughout image generation, guiding upcoming visual regions and reflecting on earlier outputs as the image takes shape.",
+          "summary": "First framework to interleave textual reasoning throughout image generation.",
           "summary_source": "https://arxiv.org/abs/2511.16671",
           "thumbnail_source": "https://think-while-gen.github.io/"
         },
@@ -1242,7 +1242,7 @@
           "source_id": "2511.20211",
           "authorship_provenance": "Hao Yu, Jinglin Wang, and Jiabo Zhan contributed equally (author homepage).",
           "authors_note": "",
-          "summary": "Unifies transparency-aware image generation and editing in one model, using reinforcement learning to improve fine opacity details and consistency across layers.",
+          "summary": "Unifies transparency-aware image generation and editing through reinforcement learning across multiple RGBA tasks.",
           "summary_source": "https://arxiv.org/abs/2511.20211",
           "thumbnail_source": "https://arxiv.org/html/2511.20211v2/arch_update.png"
         },
@@ -1319,7 +1319,7 @@
           "authors_note": "",
           "acceptance_month": "2026.06",
           "acceptance_month_provenance": "Month inferred from the official ECCV 2026 final-decision schedule (June 17); the individual paper decision day is not independently verified.",
-          "summary": "Builds a 2.5-million-sample corpus from videos by matching subjects across frames and synthesizing references, supporting identity-consistent image generation and editing.",
+          "summary": "Scales identity-consistent image generation and editing with 2.5 million training samples mined from videos.",
           "summary_source": "https://arxiv.org/abs/2512.08294",
           "thumbnail_source": "https://arxiv.org/html/2512.08294v2/data_pipeline_v1.png"
         },
@@ -1374,7 +1374,7 @@
           "source_id": "2605.21487",
           "authorship_provenance": "",
           "authors_note": "",
-          "summary": "Converts visual question answering data into reasoning-intensive editing tasks, enabling a single training task to improve image understanding, generation, and editing.",
+          "summary": "Establishes intelligent editing as a single training task that improves understanding, generation, and editing together.",
           "summary_source": "https://arxiv.org/abs/2605.21487",
           "thumbnail_source": "https://arxiv.org/html/2605.21487v2/teaser.png"
         },
@@ -1441,7 +1441,7 @@
           "source_id": "2511.22663",
           "authorship_provenance": "",
           "authors_note": "",
-          "summary": "Aligns attention between image and text with patterns learned from specialized models, reducing conflicts between visual understanding and generation in unified models.",
+          "summary": "Shows that aligning cross-modal attention improves understanding and generation without decoupling the model architecture.",
           "summary_source": "https://arxiv.org/abs/2511.22663",
           "thumbnail_source": "https://arxiv.org/html/2511.22663v5/moti2.png"
         }
@@ -1504,7 +1504,7 @@
           "source_id": "aerialvla-aaai-2026",
           "authorship_provenance": "Jinyu Chen and Hongyu Li contributed equally (canonical Scholar).",
           "authors_note": "",
-          "summary": "Unifies dialogue understanding, navigation actions, and proactive questioning through progress estimation, spatial-temporal history fusion, and online task-driven data augmentation.",
+          "summary": "An aerial navigation model that proactively asks questions to resolve uncertainty and reach its destination.",
           "summary_source": "https://ojs.aaai.org/index.php/AAAI/article/view/38878",
           "thumbnail_source": "https://ojs.aaai.org/index.php/AAAI/article/view/38878/42840",
           "thumbnail_provenance": "Figure 2 (model architecture), extracted from page 3 of the official AAAI proceedings PDF; crop excludes caption and body text. Correct Jinyu Chen / Hongyu Li AerialVLA, not the unrelated AeroVLA."
@@ -1569,7 +1569,7 @@
           "source_id": "2607.11529",
           "authorship_provenance": "",
           "authors_note": "",
-          "summary": "Enables training-free aerial navigation with a parse-search-confirm reasoning pipeline and structured spatial memory that resolves directional ambiguity and maintains long-horizon spatial context.",
+          "summary": "Training-free aerial navigation that matches or outperforms several fine-tuned methods through reasoning and spatial memory.",
           "summary_source": "https://arxiv.org/abs/2607.11529",
           "thumbnail_source": "https://arxiv.org/html/2607.11529v1/Fig_2.png",
           "thumbnail_provenance": "Official arXiv Figure 2, complete architecture overview, downloaded unchanged and visually inspected."
@@ -1625,7 +1625,7 @@
           "source_id": "2601.21667",
           "authorship_provenance": "",
           "authors_note": "",
-          "summary": "Introduces sound-triggered mobile manipulation and Habitat-Echo, pairing an audio-visual task planner with skill policies to respond to environmental events without explicit instructions.",
+          "summary": "Moves mobile manipulation beyond explicit instructions, enabling robots to act on environmental sound events.",
           "summary_source": "https://arxiv.org/abs/2601.21667",
           "thumbnail_source": "https://arxiv.org/html/2601.21667v3/fig3_method.png",
           "thumbnail_provenance": "Official arXiv v3 Figure 4, hierarchical baseline overview with Habitat-Echo, planner, policies and skill library; downloaded unchanged and visually inspected."
@@ -1688,7 +1688,7 @@
           "source_id": "point-cluster-iclr-2025",
           "authorship_provenance": "Si Liu is corresponding author (OpenReview published PDF).",
           "authors_note": "",
-          "summary": "Encodes objects as sparse point clusters with decoupled geometry and semantics, enabling communication-efficient collaborative perception through selective sampling and set-based message aggregation.",
+          "summary": "Compact point clusters reduce communication costs while preserving the geometry and semantics needed for collaborative perception.",
           "summary_source": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/07b446bc8bbadb47793711e4cda2f43e-Abstract-Conference.html",
           "thumbnail_source": "https://proceedings.iclr.cc/paper_files/paper/2025/file/07b446bc8bbadb47793711e4cda2f43e-Paper-Conference.pdf",
           "thumbnail_provenance": "Figure 2 (CPPC system overview), extracted from page 4 of the official ICLR 2025 proceedings PDF. Crop excludes page header, caption and body text."
@@ -1759,7 +1759,7 @@
           "source_id": "2506.23623",
           "authorship_provenance": "",
           "authors_note": "",
-          "summary": "Uses vision-derived, audio-prompted queries to distinguish sound-producing objects in mixed audio while preserving the visual detail needed for precise segmentation.",
+          "summary": "Vision-centric audio-visual segmentation that separates sounding objects in mixed audio while preserving precise object boundaries.",
           "summary_source": "https://arxiv.org/abs/2506.23623"
         },
         {
@@ -1823,7 +1823,7 @@
           "source_id": "2408.15876",
           "authorship_provenance": "Shaofei Huang, Rui Ling, and Hongyu Li contributed equally (canonical Scholar and existing homepage).",
           "authors_note": "",
-          "summary": "Combines GPT-guided pivot selection with SAM 2 and converts audio into language references for training-free audio- and language-referenced video object segmentation.",
+          "summary": "Training-free video segmentation guided by audio or language, with performance competitive with fully supervised methods.",
           "summary_source": "https://arxiv.org/abs/2408.15876"
         },
         {
@@ -1890,7 +1890,7 @@
           "source_id": "2409.08251",
           "authorship_provenance": "Hongyu Li and Tianrui Hui contributed equally; Si Liu is corresponding author (published PDF).",
           "authors_note": "",
-          "summary": "Dynamically adapts phrase prompts within a frozen diffusion model and fuses multi-level visual-language features to ground narrative descriptions with panoptic segmentation.",
+          "summary": "Repurposes frozen text-to-image diffusion models for precise narrative grounding through dynamically adapted language prompts.",
           "summary_source": "https://arxiv.org/abs/2409.08251"
         }
       ]

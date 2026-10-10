@@ -21,7 +21,7 @@ Open http://127.0.0.1:4000/. The launcher uses the workspace-local Ruby/Jekyll r
 - `_sass/_homepage.scss`: responsive layout and styling.
 - `images/`: portrait, publication figures, and icons.
 
-For each publication, use `authors` as objects with `name` and optional `mark` (`*` equal contribution, `†` project lead, `‡` corresponding author). An optional `authors_display` supports long team-authored reports. Use `summary` for a short English sentence describing the method and contribution, displayed beneath the authors. Keep its primary source in `summary_source`. Only add `pdf`, `code`, `project`, and `image` when the resource exists; record the original figure URL in `thumbnail_source`.
+For each publication, use `authors` as objects with `name` and optional `mark` (`*` equal contribution, `†` project lead, `‡` corresponding author). An optional `authors_display` supports long team-authored reports. Use `summary` for a concise English statement of the work's positioning or core contribution, displayed beneath the authors. Keep its primary source in `summary_source`. Only add `pdf`, `code`, `project`, and `image` when the resource exists; record the original figure URL in `thumbnail_source`.
 
 ## Content update — 2026-10-10
 

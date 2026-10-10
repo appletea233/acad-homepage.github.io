@@ -10,7 +10,7 @@ redirect_from:
 <div class="introduction" id="about-me" markdown="1">
 I am a master's student at [Beihang University](https://www.buaa.edu.cn/), supervised by [Prof. Si Liu](https://colalab.net/). Before that, I received my bachelor's degree in Software Engineering from Beihang University.
 
-My research interests include **Agentic AI**, **MLLMs**, **AIGC**, and **Embodied AI**. Welcome for discussion and collaboration, feel free to [drop me an email](mailto:hongyuer0317@gmail.com).
+My research interests include **Agentic AI**, **MLLMs**, **AIGC**, and **Embodied AI**. Welcome for discussion and collaboration, feel free to drop me an email.
 
 <p class="job-market-note">✉️ <strong>I’ll be on the job market in 2027. Happy to connect about opportunities!</strong></p>
 </div>
